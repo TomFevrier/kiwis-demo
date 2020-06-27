@@ -1,4 +1,4 @@
-link,title,date,score,popularity,sentiment,signal,sector,difference
+url,title,date,score,popularity,sentiment,signal,sector,difference
 "https://securityaffairs.co/wordpress/101790/security/cisco-phones-ucs-director-flaws.html","Cisco addresses critical issues in IP Phones and UCS DirectorSecurity Affairs","2020-04-17","3.3225785510000003","2.161380503","-0.33609002619999995","Cisco Systems","Telecom","0.45486528408333327"
 "https://threatpost.com/critical-cisco-ip-phone-rce-flaw/154864/?utm_source=twitter&utm_medium=social_Twitter&utm_campaign=Twitter_Posts","Cisco IP Phone Harbors Critical RCE Flaw | Threatpost","2020-04-17","3.125750268","0.2208681518","-0.38098388590000004","Cisco Systems","Telecom","0.45486528408333327"
 "https://www.reuters.com/article/us-health-coronavirus-att-investors-idUSKBN21Z1KT?taid=5e99ac01f87ad20001649cf1&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter","AT&T denies investors a dial-in as annual meeting goes online - Reuters","2020-04-17","3.18608013","0.03543307087","-0.1798898739","Telecommunication","Telecom","0.45486528408333327"

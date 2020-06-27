@@ -1,6 +1,6 @@
-const kw = require('kiwis');
+const kw = require('./src/Kiwis.js');
 
-// Create a DataFrame from an array of objects
+// Create a DataFrame from an array of objects...
 const h2g2Characters = kw.DataFrame([
 	{
 		name: 'Marvin',
@@ -19,19 +19,21 @@ const h2g2Characters = kw.DataFrame([
 	}
 ]);
 
-// Load a CSV file into a DataFrame
+// ... or load a CSV file into a DataFrame
 const data = kw.loadCSV('sentiment_differences.csv');
 
 // Display DataFrames
-h2g2Characters.show();
-data.show(); // Large cells and DataFrames get truncated
+h2g2Characters.show();	// Same as running console.log(h2g2Characters.toString())
+data.show();			// Large cells and DataFrames get truncated
 
 // Access rows
 console.log(h2g2Characters.first(), h2g2Characters.get(1));
 console.log();
 
+h2g2Characters.name.show()
+
 // Show columns as Series
-data['link'].show();
+data['url'].show();
 data.title.show();
 
 // Convert a DataFrame to an array of Objects
@@ -53,7 +55,7 @@ for (let [index, row] of h2g2Characters.items()) {
 h2g2Characters.dropNA().show();
 h2g2Characters.dropNA({ keep: [''], axis: 'columns' }).show();
 
-// Append new rows to a DataFrame
+// Append new rows to a DataFrame...
 h2g2Characters.append([
 	{
 		name: 'Ford',
@@ -67,7 +69,7 @@ h2g2Characters.append([
 	}
 ], { extend: true, inPlace: true }).show();
 
-// Insert a new row to a DataFrame
+// ...or insert a new row to a DataFrame
 h2g2Characters.insert({
 	name: 'Slartibartfast',
 	surname: '',
@@ -85,7 +87,14 @@ h2g2Characters
 // Add a new column to a DataFrame by applying a function to it, and save it as CSV
 h2g2Characters.addColumn('fullName', h2g2Characters.map(e => `${e.name} ${e.surname}`), { inPlace: true });
 h2g2Characters.show();
-h2g2Characters.saveCSV('h2g2Characters.csv');
+h2g2Characters.toCSV('h2g2Characters.csv');
+
+// Create a PivotTable on specific columns...
+const pivotTable = data.pivot(['sector', 'date']);
+pivotTable.show();
+
+// ...and apply a rollup function on this table
+pivotTable.mean('score').show();
 
 // Sort articles by date and by score, and only show a selection of columns
 data.sort(['date', 'score']).filter(['title', 'date', 'score']).show();
