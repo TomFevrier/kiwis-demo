@@ -2,18 +2,17 @@
 	"name": "kiwis",
 	"version": "0.0.1",
 	"description": "A Pandas-inspired data wrangling toolkit in JavaScript",
-	"main": "index.js",
 	"scripts": {
-		"demo": "node demo.js",
-		"doc-update": "documentation readme src/*.js --section=Documentation"
+		"demo": "node demo.js"
 	},
 	"author": "Tom Février (https://tomfevrier.io)",
-	"keywords": ["data", "pandas"],
+	"keywords": [
+		"data",
+		"pandas"
+	],
 	"license": "MIT",
 	"dependencies": {
 		"d3-array": "^2.4.0",
-		"d3-collection": "^1.0.7",
-		"d3-dsv": "^1.2.0",
-		"flat": "^5.0.0"
+		"kiwis": "^0.0.2"
 	}
 }

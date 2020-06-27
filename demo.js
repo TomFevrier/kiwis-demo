@@ -1,4 +1,4 @@
-const kw = require('./src/Kiwis.js');
+const kw = require('kiwis');
 
 // Create a DataFrame from an array of objects...
 const h2g2Characters = kw.DataFrame([
