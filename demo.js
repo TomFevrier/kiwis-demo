@@ -83,6 +83,11 @@ h2g2Characters
 	.reorder(['familyName', 'name', 'species', 'job'])
 	.show();
 
+// Rename and reorder columns
+h2g2Characters
+	.replace('Dent', 'Accroc', { prout: 'stuff' })
+	.show();
+
 
 // Add a new column to a DataFrame by applying a function to it, and save it as CSV
 h2g2Characters.addColumn('fullName', h2g2Characters.map(e => `${e.name} ${e.surname}`), { inPlace: true });
