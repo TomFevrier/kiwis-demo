@@ -67,14 +67,14 @@ h2g2Characters.append([
 		surname: '',
 		species: 'human'
 	}
-], { extend: true, inPlace: true }).show();
+], { extend: true }).show();
 
 // ...or insert a new row to a DataFrame
 h2g2Characters.insert({
 	name: 'Slartibartfast',
 	surname: '',
 	occupation: 'Planet designer'
-}, 2, { extend: true, inPlace: true }).show();
+}, 2, { extend: true }).show();
 
 
 // Rename and reorder columns
@@ -85,8 +85,10 @@ h2g2Characters
 
 // Rename and reorder columns
 h2g2Characters
-	.replace('Dent', 'Accroc', { prout: 'stuff' })
+	.replace('Dent', 'Accroc', { inPlace: false, columns: ['occupation', 'name'] })
 	.show();
+
+h2g2Characters.concat(h2g2Characters).show();
 
 
 // Add a new column to a DataFrame by applying a function to it, and save it as CSV
