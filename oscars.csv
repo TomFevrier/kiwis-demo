@@ -1,0 +1,1965 @@
+year,title,genres,boxOffice,rank,category,winner
+2020,Jojo Rabbit,"Comedy,Drama,War",21981387,66,Best Picture,false
+2020,Joker,"Crime,Drama,Thriller",334046521,8,Best Picture,false
+2020,Little Women,"Drama,Romance",74031009,25,Best Picture,false
+2020,1917,"Drama,War",39221279,45,Best Picture,false
+2020,Once Upon a Time... in Hollywood,"Comedy,Drama",141103164,16,Best Picture,false
+2020,Parasite,"Comedy,Drama,Thriller",25368736,62,Best Picture,false
+2020,Ford v Ferrari,"Action,Biography,Drama",111424605,21,Best Picture,false
+2020,Joker,"Crime,Drama,Thriller",334046521,8,Best Directing,false
+2020,1917,"Drama,War",39221279,45,Best Directing,false
+2020,Once Upon a Time... in Hollywood,"Comedy,Drama",141103164,16,Best Directing,false
+2020,Parasite,"Comedy,Drama,Thriller",25368736,62,Best Directing,false
+2020,1917,"Drama,War",39221279,45,Best Original Screenplay,false
+2020,Once Upon a Time... in Hollywood,"Comedy,Drama",141103164,16,Best Original Screenplay,false
+2020,Parasite,"Comedy,Drama,Thriller",25368736,62,Best Original Screenplay,false
+2020,Knives Out,"Comedy,Crime,Drama",139621744,17,Best Original Screenplay,false
+2020,Joker,"Crime,Drama,Thriller",334046521,8,Best Adapted Screenplay,false
+2020,Jojo Rabbit,"Comedy,Drama,War",21981387,66,Best Adapted Screenplay,false
+2020,Just Mercy,"Drama",10435988,86,Best Adapted Screenplay,false
+2020,Little Women,"Drama,Romance",74031009,25,Best Adapted Screenplay,false
+2020,Joker,"Crime,Drama,Thriller",334046521,8,Best Cinematography,false
+2020,1917,"Drama,War",39221279,45,Best Cinematography,false
+2020,Once Upon a Time... in Hollywood,"Comedy,Drama",141103164,16,Best Cinematography,false
+2020,The Lighthouse,"Drama,Fantasy,Horror",10825163,85,Best Cinematography,false
+2020,Star Wars: Episode IX - The Rise of Skywalker,"Action,Adventure,Fantasy",478169690,3,Best Visual Effects,false
+2020,Avengers: Endgame,"Action,Adventure,Drama",858373000,1,Best Visual Effects,false
+2020,1917,"Drama,War",39221279,45,Best Visual Effects,false
+2020,The Lion King,"Animation,Adventure,Drama",543638043,2,Best Visual Effects,false
+2019,Black Panther,"Action,Adventure,Sci-Fi",700059566,1,Best Picture,false
+2019,BlacKkKlansman,"Biography,Crime,Drama",48271960,58,Best Picture,false
+2019,Bohemian Rhapsody,"Biography,Drama,Musical",194917649,13,Best Picture,false
+2019,The Favourite,"Biography,Comedy,Drama",20118036,101,Best Picture,false
+2019,Green Book,"Biography,Comedy,Drama",36164601,74,Best Picture,true
+2019,A Star Is Born,"Drama,Music,Romance",202322968,12,Best Picture,false
+2019,Vice,"Biography,Comedy,Drama",32026399,83,Best Picture,false
+2019,BlacKkKlansman,"Biography,Crime,Drama",48271960,58,Best Directing,false
+2019,The Favourite,"Biography,Comedy,Drama",20118036,101,Best Directing,false
+2019,Vice,"Biography,Comedy,Drama",32026399,83,Best Directing,false
+2019,Cold War,"Drama,Music,Romance",272118,230,Best Directing,false
+2019,Green Book,"Biography,Comedy,Drama",36164601,74,Best Original Screenplay,true
+2019,The Favourite,"Biography,Comedy,Drama",20118036,101,Best Original Screenplay,false
+2019,Vice,"Biography,Comedy,Drama",32026399,83,Best Original Screenplay,false
+2019,First Reformed,"Drama,Mystery,Thriller",3448256,146,Best Original Screenplay,false
+2019,BlacKkKlansman,"Biography,Crime,Drama",48271960,58,Best Adapted Screenplay,true
+2019,A Star Is Born,"Drama,Music,Romance",202322968,12,Best Adapted Screenplay,false
+2019,If Beale Street Could Talk,"Crime,Drama,Romance",5096671,144,Best Adapted Screenplay,false
+2019,Can You Ever Forgive Me?,"Biography,Comedy,Crime",7645511,129,Best Adapted Screenplay,false
+2019,Cold War,"Drama,Music,Romance",272118,230,Best Cinematography,false
+2019,The Favourite,"Biography,Comedy,Drama",20118036,101,Best Cinematography,false
+2019,A Star Is Born,"Drama,Music,Romance",202322968,12,Best Cinematography,false
+2019,Avengers: Infinity War,"Action,Adventure,Fantasy",678815482,2,Best Visual Effects,false
+2019,First Man,"Biography,Drama,History",44936545,64,Best Visual Effects,true
+2019,Christopher Robin,"Animation,Adventure,Comedy",99215042,34,Best Visual Effects,false
+2019,Solo: A Star Wars story,"Action,Adventure,Fantasy",213767512,10,Best Visual Effects,false
+2019,Ready Player One,"Action,Adventure,Sci-Fi",137690172,24,Best Visual Effects,false
+2018,The Shape of Water,"Adventure,Drama,Fantasy",63859435,46,Best Picture,true
+2018,"Three Billboards Outside Ebbing, Missouri","Comedy,Crime,Drama",54513740,52,Best Picture,false
+2018,Call Me by Your Name,"Drama,Romance",18095701,104,Best Picture,false
+2018,Dunkirk,"Action,Drama,History",188373161,14,Best Picture,false
+2018,Get Out,"Horror,Mystery,Thriller",176040665,15,Best Picture,false
+2018,Lady Bird,"Comedy,Drama",48958273,56,Best Picture,false
+2018,Darkest Hour,"Biography,Drama,History",56443120,50,Best Picture,false
+2018,The Post,"Biography,Drama,History",81903458,38,Best Picture,false
+2018,Phantom Thread,"Drama,Romance",21023275,97,Best Picture,false
+2018,La forme de l'eau,"Adventure,Drama,Fantasy",63859435,46,Best Directing,true
+2018,Dunkerque,"Action,Drama,History",188373161,14,Best Directing,false
+2018,Lady Bird,"Comedy,Drama",48958273,56,Best Directing,false
+2018,Get Out,"Horror,Mystery,Thriller",176040665,15,Best Directing,false
+2018,Phantom Thread,"Drama,Romance",21023275,97,Best Directing,false
+2018,Get Out,"Horror,Mystery,Thriller",176040665,15,Best Original Screenplay,true
+2018,"Three Billboards Outside Ebbing, Missouri","Comedy,Crime,Drama",54513740,52,Best Original Screenplay,false
+2018,The Shape of Water,"Adventure,Drama,Fantasy",63859435,46,Best Original Screenplay,false
+2018,Lady Bird,"Comedy,Drama",48958273,56,Best Original Screenplay,false
+2018,The Big Sick,"Comedy,Drama,Romance",42872467,64,Best Original Screenplay,false
+2018,Call Me by Your Name,"Drama,Romance",18095701,104,Best Adapted Screenplay,true
+2018,Molly's Game,"Biography,Crime,Drama",28780744,83,Best Adapted Screenplay,false
+2018,Logan,"Action,Drama,Sci-Fi",226277068,11,Best Adapted Screenplay,false
+2018,The Disaster Artist,"Biography,Comedy,Drama",21120616,96,Best Adapted Screenplay,false
+2018,Blade Runner 2049,"Drama,Mystery,Sci-Fi",92054159,33,Best Cinematography,true
+2018,Dunkirk,"Action,Drama,History",188373161,14,Best Cinematography,false
+2018,The Shape of Water,"Adventure,Drama,Fantasy",63859435,46,Best Cinematography,false
+2018,Darkest Hour,"Biography,Drama,History",56443120,50,Best Cinematography,false
+2018,Blade Runner 2049,"Drama,Mystery,Sci-Fi",92054159,33,Best Visual Effects,true
+2018,Kong: Skull Island,"Action,Adventure,Fantasy",168052812,20,Best Visual Effects,false
+2018,War for the Planet of the Apes,"Action,Adventure,Drama",146880162,22,Best Visual Effects,false
+2018,Guardians of the Galaxy Vol. 2,"Action,Adventure,Comedy",389813101,5,Best Visual Effects,false
+2018,Star Wars: Episode VIII - The Last Jedi,"Action,Adventure,Fantasy",620181382,1,Best Visual Effects,false
+2017,Moonlight,"Drama",28686439,96,Best Picture,true
+2017,Hell or High Water,"Action,Crime,Drama",27668323,99,Best Picture,false
+2017,Fences,"Drama",59372249,58,Best Picture,false
+2017,La La Land,"Comedy,Drama,Music",155634857,19,Best Picture,false
+2017,Hidden Figures,"Biography,Drama,History",174695505,14,Best Picture,false
+2017,Lion,"Biography,Drama",53245699,67,Best Picture,false
+2017,Manchester by the Sea,"Drama",49125973,70,Best Picture,false
+2017,Arrival,"Drama,Mystery,Sci-Fi",103562523,30,Best Picture,false
+2017,Hacksaw Ridge,"Biography,Drama,History",69225903,47,Best Picture,false
+2017,La La Land,"Comedy,Drama,Music",155634857,19,Best Directing,true
+2017,Moonlight,"Drama",28686439,96,Best Directing,false
+2017,Premier contact,"Drama,Mystery,Sci-Fi",103562523,30,Best Directing,false
+2017,Manchester by the Sea,"Drama",49125973,70,Best Directing,false
+2017,Tu ne tueras point,"Biography,Drama,History",69225903,47,Best Directing,false
+2017,Manchester by the Sea,"Drama",49125973,70,Best Original Screenplay,true
+2017,20th Century Women,"Comedy,Drama",5833770,162,Best Original Screenplay,false
+2017,Hell or High Water,"Action,Crime,Drama",27668323,99,Best Original Screenplay,false
+2017,La La Land,"Comedy,Drama,Music",155634857,19,Best Original Screenplay,false
+2017,The Lobster,"Comedy,Drama,Romance",8960212,123,Best Original Screenplay,false
+2017,Moonlight,"Drama",28686439,96,Best Adapted Screenplay,true
+2017,Fences,"Drama",59372249,58,Best Adapted Screenplay,false
+2017,Hidden Figures,"Biography,Drama,History",174695505,14,Best Adapted Screenplay,false
+2017,Lion,"Biography,Drama",53245699,67,Best Adapted Screenplay,false
+2017,Arrival,"Drama,Mystery,Sci-Fi",103562523,30,Best Adapted Screenplay,false
+2017,La La Land,"Comedy,Drama,Music",155634857,19,Best Cinematography,true
+2017,Lion,"Biography,Drama",53245699,67,Best Cinematography,false
+2017,Moonlight,"Drama",28686439,96,Best Cinematography,false
+2017,Arrival,"Drama,Mystery,Sci-Fi",103562523,30,Best Cinematography,false
+2017,Silence,"Adventure,Drama,History",7291566,152,Best Cinematography,false
+2017,The Jungle Book,"Adventure,Drama,Family",374921156,5,Best Visual Effects,true
+2017,Deepwater Horizon,"Action,Drama,History",63123495,54,Best Visual Effects,false
+2017,Doctor Strange,"Action,Adventure,Fantasy",239621177,13,Best Visual Effects,false
+2017,Kubo and the Two Strings,"Animation,Action,Adventure",49463780,69,Best Visual Effects,false
+2017,Rogue One,"Action,Adventure,Sci-Fi",548142643,1,Best Visual Effects,false
+2016,Spotlight,"Crime,Drama,History",47308564,59,Best Picture,true
+2016,Brooklyn,"Drama,Romance",40233411,67,Best Picture,false
+2016,Bridge of Spies,"Drama,History,Thriller",75929441,39,Best Picture,false
+2016,Mad Max: Fury Road,"Action,Adventure,Sci-Fi",161318171,21,Best Picture,false
+2016,Room,"Drama,Thriller",15411557,104,Best Picture,false
+2016,The Martian,"Adventure,Drama,Sci-Fi",239855346,8,Best Picture,false
+2016,The Big Short,"Biography,Comedy,Drama",73772863,41,Best Picture,false
+2016,The Revenant,"Action,Adventure,Biography",192819788,13,Best Picture,false
+2016,The Revenant,"Action,Adventure,Biography",192819788,13,Best Directing,true
+2016,The Big Short: Le casse du siècle,"Biography,Comedy,Drama",73772863,41,Best Directing,false
+2016,Mad Max: Fury Road,"Action,Adventure,Sci-Fi",161318171,21,Best Directing,false
+2016,Room,"Drama,Thriller",15411557,104,Best Directing,false
+2016,Spotlight,"Crime,Drama,History",47308564,59,Best Directing,false
+2016,Spotlight,"Crime,Drama,History",47308564,59,Best Original Screenplay,true
+2016,Ex Machina,"Drama,Mystery,Sci-Fi",26715105,105,Best Original Screenplay,false
+2016,Bridge of Spies,"Drama,History,Thriller",75929441,39,Best Original Screenplay,false
+2016,Straight Outta Compton,"Biography,Drama,History",169257674,19,Best Original Screenplay,false
+2016,Inside Out,"Animation,Adventure,Comedy",374284796,4,Best Original Screenplay,false
+2016,The Big Short,"Biography,Comedy,Drama",73772863,41,Best Adapted Screenplay,true
+2016,Brooklyn,"Drama,Romance",40233411,67,Best Adapted Screenplay,false
+2016,Carol,"Drama,Romance",13347065,110,Best Adapted Screenplay,false
+2016,Room,"Drama,Thriller",15411557,104,Best Adapted Screenplay,false
+2016,The Martian,"Adventure,Drama,Sci-Fi",239855346,8,Best Adapted Screenplay,false
+2016,The Revenant,"Action,Adventure,Biography",192819788,13,Best Cinematography,true
+2016,Carol,"Drama,Romance",13347065,110,Best Cinematography,false
+2016,The Hateful Eight,"Crime,Drama,Mystery",56823286,51,Best Cinematography,false
+2016,Mad Max: Fury Road,"Action,Adventure,Sci-Fi",161318171,21,Best Cinematography,false
+2016,Sicario,"Action,Crime,Drama",49233757,57,Best Cinematography,false
+2016,Ex Machina,"Drama,Mystery,Sci-Fi",26715105,105,Best Visual Effects,true
+2016,Mad Max: Fury Road,"Action,Adventure,Sci-Fi",161318171,21,Best Visual Effects,false
+2016,The Martian,"Adventure,Drama,Sci-Fi",239855346,8,Best Visual Effects,false
+2016,Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Fantasy",983495336,1,Best Visual Effects,false
+2016,The Revenant,"Action,Adventure,Biography",192819788,13,Best Visual Effects,false
+2015,Birdman or (The Unexpected Virtue of Ignorance),"Comedy,Drama",44881033,81,Best Picture,true
+2015,American Sniper,"Action,Biography,Drama",371133954,1,Best Picture,false
+2015,Boyhood,"Drama",26902773,106,Best Picture,false
+2015,The Imitation Game,"Biography,Drama,Thriller",96593223,37,Best Picture,false
+2015,Selma,"Biography,Drama,History",55201522,64,Best Picture,false
+2015,The Grand Budapest Hotel,"Adventure,Comedy,Drama",62646337,58,Best Picture,false
+2015,The Theory of Everything,"Biography,Drama,Romance",38047149,88,Best Picture,false
+2015,Whiplash,"Drama,Music",13877520,131,Best Picture,false
+2015,Birdman,"Comedy,Drama",44881033,81,Best Directing,true
+2015,Foxcatcher,"Biography,Drama,Sport",12822078,133,Best Directing,false
+2015,Imitation Game,"Biography,Drama,Thriller",96593223,37,Best Directing,false
+2015,Boyhood,"Drama",26902773,106,Best Directing,false
+2015,The Grand Budapest Hotel,"Adventure,Comedy,Drama",62646337,58,Best Directing,false
+2015,Birdman or (The Unexpected Virtue of Ignorance),"Comedy,Drama",44881033,81,Best Original Screenplay,true
+2015,Boyhood,"Drama",26902773,106,Best Original Screenplay,false
+2015,Foxcatcher,"Biography,Drama,Sport",12822078,133,Best Original Screenplay,false
+2015,Nightcrawler,"Crime,Drama,Thriller",34324091,94,Best Original Screenplay,false
+2015,The Grand Budapest Hotel,"Adventure,Comedy,Drama",62646337,58,Best Original Screenplay,false
+2015,The Imitation Game,"Biography,Drama,Thriller",96593223,37,Best Adapted Screenplay,true
+2015,American Sniper,"Action,Biography,Drama",371133954,1,Best Adapted Screenplay,false
+2015,Inherent Vice,"Comedy,Crime,Drama",8597633,140,Best Adapted Screenplay,false
+2015,The Theory of Everything,"Biography,Drama,Romance",38047149,88,Best Adapted Screenplay,false
+2015,Whiplash,"Drama,Music",13877520,131,Best Adapted Screenplay,false
+2015,Birdman or (The Unexpected Virtue of Ignorance),"Comedy,Drama",44881033,81,Best Cinematography,true
+2015,Ida,"Drama",4056683,154,Best Cinematography,false
+2015,Unbroken,"Biography,Drama,Sport",122576168,27,Best Cinematography,false
+2015,Mr. Turner,"Biography,Drama,History",4196058,152,Best Cinematography,false
+2015,The Grand Budapest Hotel,"Adventure,Comedy,Drama",62646337,58,Best Cinematography,false
+2015,Interstellar,"Adventure,Drama,Sci-Fi",199301218,16,Best Visual Effects,true
+2015,Captain America: The Winter Soldier,"Action,Adventure,Sci-Fi",275352566,4,Best Visual Effects,false
+2015,Dawn of the Planet of the Apes,"Action,Adventure,Drama",221058324,11,Best Visual Effects,false
+2015,Guardians of the Galaxy,"Action,Adventure,Comedy",353167196,3,Best Visual Effects,false
+2015,X-Men: Days of Future Past,"Action,Adventure,Sci-Fi",247956826,9,Best Visual Effects,false
+2014,12 Years a Slave,"Biography,Drama,History",60072312,62,Best Picture,true
+2014,American Hustle,"Crime,Drama",159124875,17,Best Picture,false
+2014,Captain Phillips,"Biography,Drama,Thriller",113526906,32,Best Picture,false
+2014,Dallas Buyers Club,"Biography,Drama",28936182,93,Best Picture,false
+2014,Gravity,"Drama,Sci-Fi,Thriller",290538267,6,Best Picture,false
+2014,Her,"Drama,Romance,Sci-Fi",27102346,98,Best Picture,false
+2014,The Wolf of Wall Street,"Biography,Comedy,Crime",123914735,28,Best Picture,false
+2014,Nebraska,"Adventure,Comedy,Drama",18714206,111,Best Picture,false
+2014,Philomena,"Biography,Drama",39970182,79,Best Picture,false
+2014,Gravity,"Drama,Sci-Fi,Thriller",290538267,6,Best Directing,true
+2014,Nebraska,"Adventure,Comedy,Drama",18714206,111,Best Directing,false
+2014,American Bluff,"Crime,Drama",159124875,17,Best Directing,false
+2014,Le loup de Wall Street,"Biography,Comedy,Crime",123914735,28,Best Directing,false
+2014,12 Years a Slave,"Biography,Drama,History",60072312,62,Best Directing,false
+2014,Her,"Drama,Romance,Sci-Fi",27102346,98,Best Original Screenplay,true
+2014,American Hustle,"Crime,Drama",159124875,17,Best Original Screenplay,false
+2014,Blue Jasmine,"Drama",35409809,85,Best Original Screenplay,false
+2014,Dallas Buyers Club,"Biography,Drama",28936182,93,Best Original Screenplay,false
+2014,Nebraska,"Adventure,Comedy,Drama",18714206,111,Best Original Screenplay,false
+2014,12 Years a Slave,"Biography,Drama,History",60072312,62,Best Adapted Screenplay,true
+2014,Before Midnight,"Drama,Romance",8601504,135,Best Adapted Screenplay,false
+2014,Captain Phillips,"Biography,Drama,Thriller",113526906,32,Best Adapted Screenplay,false
+2014,The Wolf of Wall Street,"Biography,Comedy,Crime",123914735,28,Best Adapted Screenplay,false
+2014,Philomena,"Biography,Drama",39970182,79,Best Adapted Screenplay,false
+2014,Gravity,"Drama,Sci-Fi,Thriller",290538267,6,Best Cinematography,true
+2014,Inside Llewyn Davis,"Drama,Music",14029438,122,Best Cinematography,false
+2014,Nebraska,"Adventure,Comedy,Drama",18714206,111,Best Cinematography,false
+2014,Prisoners,"Crime,Drama,Mystery",64662440,58,Best Cinematography,false
+2014,Yi dai zong shi,"Action,Biography,Drama",6990656,143,Best Cinematography,false
+2014,Gravity,"Drama,Sci-Fi,Thriller",290538267,6,Best Visual Effects,true
+2014,Iron Man 3,"Action,Adventure,Sci-Fi",433554833,2,Best Visual Effects,false
+2014,The Hobbit: The Desolation of Smaug,"Adventure,Fantasy",273868866,8,Best Visual Effects,false
+2014,The Lone Ranger,"Action,Adventure,Western",94660241,40,Best Visual Effects,false
+2014,Star Trek: Into Darkness,"Action,Adventure,Sci-Fi",242505380,11,Best Visual Effects,false
+2013,Argo,"Biography,Drama,Thriller",146907543,22,Best Picture,true
+2013,Amour,"Drama,Romance",7278651,130,Best Picture,false
+2013,Django Unchained,"Drama,Western",175829868,15,Best Picture,false
+2013,Silver Linings Playbook,"Comedy,Drama,Romance",142660394,23,Best Picture,false
+2013,Life of Pi,"Adventure,Drama,Fantasy",134985984,27,Best Picture,false
+2013,Les Misérables,"Drama,History,Musical",160714551,18,Best Picture,false
+2013,Beasts of the Southern Wild,"Adventure,Drama,Fantasy",13819405,119,Best Picture,false
+2013,Lincoln,"Biography,Drama,History",196784610,13,Best Picture,false
+2013,Zero Dark Thirty,"Drama,Thriller",103378373,32,Best Picture,false
+2013,L'odyssée de Pi,"Adventure,Drama,Fantasy",134985984,27,Best Directing,true
+2013,Les bêtes du Sud sauvage,"Adventure,Drama,Fantasy",13819405,119,Best Directing,false
+2013,Happiness Therapy,"Comedy,Drama,Romance",142660394,23,Best Directing,false
+2013,Amour,"Drama,Romance",7278651,130,Best Directing,false
+2013,Lincoln,"Biography,Drama,History",196784610,13,Best Directing,false
+2013,Django Unchained,"Drama,Western",175829868,15,Best Original Screenplay,true
+2013,Amour,"Drama,Romance",7278651,130,Best Original Screenplay,false
+2013,Flight,"Drama,Thriller",101274165,33,Best Original Screenplay,false
+2013,Moonrise Kingdom,"Adventure,Comedy,Drama",49153463,69,Best Original Screenplay,false
+2013,Zero Dark Thirty,"Drama,Thriller",103378373,32,Best Original Screenplay,false
+2013,Argo,"Biography,Drama,Thriller",146907543,22,Best Adapted Screenplay,true
+2013,Silver Linings Playbook,"Comedy,Drama,Romance",142660394,23,Best Adapted Screenplay,false
+2013,Life of Pi,"Adventure,Drama,Fantasy",134985984,27,Best Adapted Screenplay,false
+2013,Beasts of the Southern Wild,"Adventure,Drama,Fantasy",13819405,119,Best Adapted Screenplay,false
+2013,Lincoln,"Biography,Drama,History",196784610,13,Best Adapted Screenplay,false
+2013,Life of Pi,"Adventure,Drama,Fantasy",134985984,27,Best Cinematography,true
+2013,Anna Karenina,"Drama,Romance",13841676,118,Best Cinematography,false
+2013,Django Unchained,"Drama,Western",175829868,15,Best Cinematography,false
+2013,Lincoln,"Biography,Drama,History",196784610,13,Best Cinematography,false
+2013,Skyfall,"Action,Adventure,Thriller",328709099,4,Best Cinematography,false
+2013,Life of Pi,"Adventure,Drama,Fantasy",134985984,27,Best Visual Effects,true
+2013,The Avengers,"Action,Adventure,Sci-Fi",673226542,1,Best Visual Effects,false
+2013,Snow White and the Huntsman,"Action,Adventure,Drama",167758971,17,Best Visual Effects,false
+2013,The Hobbit: An Unexpected Journey,"Adventure,Family,Fantasy",327243853,5,Best Visual Effects,false
+2013,Prometheus,"Adventure,Mystery,Sci-Fi",136595250,24,Best Visual Effects,false
+2012,The Artist,"Comedy,Drama,Romance",49138850,71,Best Picture,true
+2012,War Horse,"Drama,History,War",87873366,40,Best Picture,false
+2012,Extremely Loud & Incredibly Close,"Adventure,Drama,Mystery",35032669,98,Best Picture,false
+2012,Hugo,"Adventure,Drama,Family",81250957,48,Best Picture,false
+2012,The Help,"Drama",186678923,13,Best Picture,false
+2012,Moneyball,"Biography,Drama,Sport",83166041,46,Best Picture,false
+2012,Midnight in Paris,"Comedy,Fantasy,Romance",62498328,57,Best Picture,false
+2012,The Descendants,"Comedy,Drama",90842576,38,Best Picture,false
+2012,The Tree of Life,"Drama,Fantasy",14633650,132,Best Picture,false
+2012,The Artist,"Comedy,Drama,Romance",49138850,71,Best Directing,true
+2012,The Descendants,"Comedy,Drama",90842576,38,Best Directing,false
+2012,Hugo Cabret,"Adventure,Drama,Family",81250957,48,Best Directing,false
+2012,The tree of life - l'arbre de vie,"Drama,Fantasy",14633650,132,Best Directing,false
+2012,Minuit à Paris,"Comedy,Fantasy,Romance",62498328,57,Best Directing,false
+2012,Midnight in Paris,"Comedy,Fantasy,Romance",62498328,57,Best Original Screenplay,true
+2012,Margin Call,"Drama,Thriller",5889442,155,Best Original Screenplay,false
+2012,Bridesmaids,"Comedy,Romance",186017397,14,Best Original Screenplay,false
+2012,The Artist,"Comedy,Drama,Romance",49138850,71,Best Original Screenplay,false
+2012,Jodaeiye Nader az Simin,"Drama",7808341,148,Best Original Screenplay,false
+2012,The Descendants,"Comedy,Drama",90842576,38,Best Adapted Screenplay,true
+2012,Hugo,"Adventure,Drama,Family",81250957,48,Best Adapted Screenplay,false
+2012,Tinker Tailor Soldier Spy,"Drama,Mystery,Thriller",26564332,109,Best Adapted Screenplay,false
+2012,Moneyball,"Biography,Drama,Sport",83166041,46,Best Adapted Screenplay,false
+2012,The Ides of March,"Drama,Thriller",45058787,75,Best Adapted Screenplay,false
+2012,Hugo,"Adventure,Drama,Family",81250957,48,Best Cinematography,true
+2012,War Horse,"Drama,History,War",87873366,40,Best Cinematography,false
+2012,The Girl with the Dragon Tattoo,"Crime,Drama,Mystery",112767372,28,Best Cinematography,false
+2012,The Artist,"Comedy,Drama,Romance",49138850,71,Best Cinematography,false
+2012,The Tree of Life,"Drama,Fantasy",14633650,132,Best Cinematography,false
+2012,Hugo,"Adventure,Drama,Family",81250957,48,Best Visual Effects,true
+2012,Harry Potter and the Deathly Hallows: Part 2,"Adventure,Drama,Fantasy",419112340,1,Best Visual Effects,false
+2012,Rise of the Planet of the Apes,"Action,Drama,Sci-Fi",194436203,11,Best Visual Effects,false
+2012,Real Steel,"Action,Drama,Family",94015358,34,Best Visual Effects,false
+2012,Transformers: Dark of the Moon,"Action,Adventure,Sci-Fi",387629597,2,Best Visual Effects,false
+2011,The King's Speech,"Biography,Drama,History",155453142,18,Best Picture,true
+2011,127 Hours,"Adventure,Biography,Drama",20535457,118,Best Picture,false
+2011,Black Swan,"Drama,Thriller",119789239,24,Best Picture,false
+2011,The Fighter,"Biography,Drama,Sport",104851050,34,Best Picture,false
+2011,Inception,"Action,Adventure,Sci-Fi",327685338,6,Best Picture,false
+2011,The Social Network,"Biography,Drama",108598217,31,Best Picture,false
+2011,The Kids Are All Right,"Comedy,Drama,Romance",23308728,113,Best Picture,false
+2011,Toy Story 3,"Animation,Adventure,Comedy",464805465,1,Best Picture,false
+2011,True Grit,"Adventure,Drama,Western",191792165,13,Best Picture,false
+2011,Winter's Bone,"Drama,Mystery",7315283,137,Best Picture,false
+2011,Le discours d'un roi,"Biography,Drama,History",155453142,18,Best Directing,true
+2011,Black Swan,"Drama,Thriller",119789239,24,Best Directing,false
+2011,The Social Network,"Biography,Drama",108598217,31,Best Directing,false
+2011,Fighter,"Biography,Drama,Sport",104851050,34,Best Directing,false
+2011,True Grit,"Adventure,Drama,Western",191792165,13,Best Directing,false
+2011,The King's Speech,"Biography,Drama,History",155453142,18,Best Original Screenplay,true
+2011,Another Year,"Comedy,Drama",3590390,152,Best Original Screenplay,false
+2011,The Fighter,"Biography,Drama,Sport",104851050,34,Best Original Screenplay,false
+2011,Inception,"Action,Adventure,Sci-Fi",327685338,6,Best Original Screenplay,false
+2011,The Kids Are All Right,"Comedy,Drama,Romance",23308728,113,Best Original Screenplay,false
+2011,The Social Network,"Biography,Drama",108598217,31,Best Adapted Screenplay,true
+2011,127 Hours,"Adventure,Biography,Drama",20535457,118,Best Adapted Screenplay,false
+2011,Toy Story 3,"Animation,Adventure,Comedy",464805465,1,Best Adapted Screenplay,false
+2011,True Grit,"Adventure,Drama,Western",191792165,13,Best Adapted Screenplay,false
+2011,Winter's Bone,"Drama,Mystery",7315283,137,Best Adapted Screenplay,false
+2011,Inception,"Action,Adventure,Sci-Fi",327685338,6,Best Cinematography,true
+2011,Black Swan,"Drama,Thriller",119789239,24,Best Cinematography,false
+2011,The King's Speech,"Biography,Drama,History",155453142,18,Best Cinematography,false
+2011,The Social Network,"Biography,Drama",108598217,31,Best Cinematography,false
+2011,True Grit,"Adventure,Drama,Western",191792165,13,Best Cinematography,false
+2011,Inception,"Action,Adventure,Sci-Fi",327685338,6,Best Visual Effects,true
+2011,Alice in Wonderland,"Adventure,Family,Fantasy",374294043,2,Best Visual Effects,false
+2011,Hereafter,"Drama,Fantasy",36676573,87,Best Visual Effects,false
+2011,Harry Potter and the Deathly Hallows: Part 1,"Adventure,Fantasy,Mystery",331501301,5,Best Visual Effects,false
+2011,Iron Man 2,"Action,Sci-Fi",349925330,3,Best Visual Effects,false
+2010,The Hurt Locker,"Drama,Thriller,War",19740660,124,Best Picture,true
+2010,A Serious Man,"Comedy,Drama",10661009,140,Best Picture,false
+2010,Avatar,"Action,Adventure,Fantasy",882188844,1,Best Picture,false
+2010,District 9,"Sci-Fi,Thriller",134149632,25,Best Picture,false
+2010,Up in the Air,"Drama,Romance",97235121,35,Best Picture,false
+2010,Inglourious Basterds,"Adventure,Drama,War",139827234,23,Best Picture,false
+2010,Up,"Animation,Adventure,Comedy",339884830,5,Best Picture,false
+2010,Precious,"Drama",54978966,61,Best Picture,false
+2010,The Blind Side,"Biography,Drama,Sport",296912991,8,Best Picture,false
+2010,An Education,"Drama",14586669,127,Best Picture,false
+2010,Démineurs,"Drama,Thriller,War",19740660,124,Best Directing,true
+2010,Avatar,"Action,Adventure,Fantasy",882188844,1,Best Directing,false
+2010,In the Air,"Drama,Romance",97235121,35,Best Directing,false
+2010,Precious,"Drama",54978966,61,Best Directing,false
+2010,Inglourious Basterds,"Adventure,Drama,War",139827234,23,Best Directing,false
+2010,The Hurt Locker,"Drama,Thriller,War",19740660,124,Best Original Screenplay,true
+2010,A Serious Man,"Comedy,Drama",10661009,140,Best Original Screenplay,false
+2010,Inglourious Basterds,"Adventure,Drama,War",139827234,23,Best Original Screenplay,false
+2010,Up,"Animation,Adventure,Comedy",339884830,5,Best Original Screenplay,false
+2010,The Messenger,"Drama,Romance,War",77298,306,Best Original Screenplay,false
+2010,Precious,"Drama",54978966,61,Best Adapted Screenplay,true
+2010,District 9,"Sci-Fi,Thriller",134149632,25,Best Adapted Screenplay,false
+2010,Up in the Air,"Drama,Romance",97235121,35,Best Adapted Screenplay,false
+2010,In the Loop,"Comedy",2765491,175,Best Adapted Screenplay,false
+2010,An Education,"Drama",14586669,127,Best Adapted Screenplay,false
+2010,Avatar,"Action,Adventure,Fantasy",882188844,1,Best Cinematography,true
+2010,The Hurt Locker,"Drama,Thriller,War",19740660,124,Best Cinematography,false
+2010,Harry Potter and the Half-Blood Prince,"Adventure,Family,Fantasy",350272668,3,Best Cinematography,false
+2010,Inglourious Basterds,"Adventure,Drama,War",139827234,23,Best Cinematography,false
+2010,Das weiße Band - Eine deutsche Kindergeschichte,"Drama,History,Mystery",2578270,177,Best Cinematography,false
+2010,Avatar,"Action,Adventure,Fantasy",882188844,1,Best Visual Effects,true
+2010,District 9,"Sci-Fi,Thriller",134149632,25,Best Visual Effects,false
+2010,Star Trek,"Action,Adventure,Sci-Fi",298966822,7,Best Visual Effects,false
+2009,Slumdog Millionaire,"Drama,Romance",165344315,17,Best Picture,true
+2009,Frost/Nixon,"Biography,Drama,History",21753992,120,Best Picture,false
+2009,Milk,"Biography,Drama",37254319,89,Best Picture,false
+2009,The Curious Case of Benjamin Button,"Drama,Fantasy,Romance",149185911,21,Best Picture,false
+2009,The Reader,"Drama,Romance",40007456,82,Best Picture,false
+2009,Slumdog Millionaire,"Drama,Romance",165344315,17,Best Directing,true
+2009,L'étrange histoire de Benjamin Button,"Drama,Fantasy,Romance",149185911,21,Best Directing,false
+2009,Harvey Milk,"Biography,Drama",37254319,89,Best Directing,false
+2009,"Frost/Nixon, l'heure de vérité","Biography,Drama,History",21753992,120,Best Directing,false
+2009,The Reader,"Drama,Romance",40007456,82,Best Directing,false
+2009,Milk,"Biography,Drama",37254319,89,Best Original Screenplay,true
+2009,Happy-Go-Lucky,"Comedy,Drama,Romance",4088547,171,Best Original Screenplay,false
+2009,In Bruges,"Comedy,Crime,Drama",9075842,154,Best Original Screenplay,false
+2009,Frozen River,"Crime,Drama",2935343,182,Best Original Screenplay,false
+2009,WALL·E,"Animation,Adventure,Family",261855551,5,Best Original Screenplay,false
+2009,Slumdog Millionaire,"Drama,Romance",165344315,17,Best Adapted Screenplay,true
+2009,Doubt,"Drama,Mystery",39104390,85,Best Adapted Screenplay,false
+2009,Frost/Nixon,"Biography,Drama,History",21753992,120,Best Adapted Screenplay,false
+2009,The Curious Case of Benjamin Button,"Drama,Fantasy,Romance",149185911,21,Best Adapted Screenplay,false
+2009,The Reader,"Drama,Romance",40007456,82,Best Adapted Screenplay,false
+2009,Slumdog Millionaire,"Drama,Romance",165344315,17,Best Cinematography,true
+2009,Changeling,"Biography,Crime,Drama",41815568,80,Best Cinematography,false
+2009,The Curious Case of Benjamin Button,"Drama,Fantasy,Romance",149185911,21,Best Cinematography,false
+2009,The Dark Knight,"Action,Crime,Drama",625784379,1,Best Cinematography,false
+2009,The Reader,"Drama,Romance",40007456,82,Best Cinematography,false
+2009,The Curious Case of Benjamin Button,"Drama,Fantasy,Romance",149185911,21,Best Visual Effects,true
+2009,Iron Man,"Action,Adventure,Sci-Fi",372542158,2,Best Visual Effects,false
+2009,The Dark Knight,"Action,Crime,Drama",625784379,1,Best Visual Effects,false
+2008,No Country for Old Men,"Crime,Drama,Thriller",86911841,36,Best Picture,true
+2008,Juno,"Comedy,Drama",167889460,14,Best Picture,false
+2008,Michael Clayton,"Crime,Drama,Mystery",57369641,55,Best Picture,false
+2008,Atonement,"Drama,Mystery,Romance",59584668,50,Best Picture,false
+2008,There Will Be Blood,"Drama",47060341,66,Best Picture,false
+2008,"No Country for Old Men - Non, ce pays n'est pas pour le vieil homme","Crime,Drama,Thriller",86911841,36,Best Directing,true
+2008,Juno,"Comedy,Drama",167889460,14,Best Directing,false
+2008,Le scaphandre et le papillon,"Biography,Drama",7008387,161,Best Directing,false
+2008,There Will Be Blood,"Drama",47060341,66,Best Directing,false
+2008,Michael Clayton,"Crime,Drama,Mystery",57369641,55,Best Directing,false
+2008,Juno,"Comedy,Drama",167889460,14,Best Original Screenplay,true
+2008,The Savages,"Comedy,Drama",7734081,159,Best Original Screenplay,false
+2008,Michael Clayton,"Crime,Drama,Mystery",57369641,55,Best Original Screenplay,false
+2008,Ratatouille,"Animation,Adventure,Comedy",241541415,10,Best Original Screenplay,false
+2008,Lars and the Real Girl,"Comedy,Drama,Romance",6988274,162,Best Original Screenplay,false
+2008,No Country for Old Men,"Crime,Drama,Thriller",86911841,36,Best Adapted Screenplay,true
+2008,Le scaphandre et le papillon,"Biography,Drama",7008387,161,Best Adapted Screenplay,false
+2008,Away from Her,"Drama",5348679,187,Best Adapted Screenplay,false
+2008,Atonement,"Drama,Mystery,Romance",59584668,50,Best Adapted Screenplay,false
+2008,There Will Be Blood,"Drama",47060341,66,Best Adapted Screenplay,false
+2008,There Will Be Blood,"Drama",47060341,66,Best Cinematography,true
+2008,The Assassination of Jesse James by the Coward Robert Ford,"Biography,Crime,Drama",4568828,183,Best Cinematography,false
+2008,Le scaphandre et le papillon,"Biography,Drama",7008387,161,Best Cinematography,false
+2008,No Country for Old Men,"Crime,Drama,Thriller",86911841,36,Best Cinematography,false
+2008,Atonement,"Drama,Mystery,Romance",59584668,50,Best Cinematography,false
+2008,The Golden Compass,"Adventure,Family,Fantasy",82026041,39,Best Visual Effects,true
+2008,Pirates of the Caribbean: At World's End,"Action,Adventure,Fantasy",362021897,4,Best Visual Effects,false
+2008,Transformers,"Action,Adventure,Sci-Fi",373314013,3,Best Visual Effects,false
+2007,The Departed,"Crime,Drama,Thriller",161508864,16,Best Picture,true
+2007,Babel,"Drama",41849461,89,Best Picture,false
+2007,Letters from Iwo Jima,"Drama,History,War",16782420,134,Best Picture,false
+2007,Little Miss Sunshine,"Comedy,Drama",73067139,50,Best Picture,false
+2007,The Queen,"Biography,Drama,History",68858887,56,Best Picture,false
+2007,Les infiltrés,"Crime,Drama,Thriller",161508864,16,Best Directing,true
+2007,Babel,"Drama",41849461,89,Best Directing,false
+2007,Lettres d'Iwo Jima,"Drama,History,War",16782420,134,Best Directing,false
+2007,Vol 93,"Drama,History,Thriller",38511903,92,Best Directing,false
+2007,The Queen,"Biography,Drama,History",68858887,56,Best Directing,false
+2007,Little Miss Sunshine,"Comedy,Drama",73067139,50,Best Original Screenplay,true
+2007,Babel,"Drama",41849461,89,Best Original Screenplay,false
+2007,El laberinto del fauno,"Drama,Fantasy,War",45914230,78,Best Original Screenplay,false
+2007,Letters from Iwo Jima,"Drama,History,War",16782420,134,Best Original Screenplay,false
+2007,The Queen,"Biography,Drama,History",68858887,56,Best Original Screenplay,false
+2007,The Departed,"Crime,Drama,Thriller",161508864,16,Best Adapted Screenplay,true
+2007,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,"Comedy",156777268,17,Best Adapted Screenplay,false
+2007,Notes on a Scandal,"Crime,Drama,Romance",21360577,119,Best Adapted Screenplay,false
+2007,Children of Men,"Drama,Sci-Fi,Thriller",43373907,86,Best Adapted Screenplay,false
+2007,Little Children,"Drama,Romance",6664883,182,Best Adapted Screenplay,false
+2007,El laberinto del fauno,"Drama,Fantasy,War",45914230,78,Best Cinematography,true
+2007,The Illusionist,"Drama,Mystery,Romance",48639743,73,Best Cinematography,false
+2007,The Black Dahlia,"Crime,Drama,Mystery",27472356,104,Best Cinematography,false
+2007,The Prestige,"Drama,Mystery,Sci-Fi",64769667,60,Best Cinematography,false
+2007,Children of Men,"Drama,Sci-Fi,Thriller",43373907,86,Best Cinematography,false
+2007,Pirates of the Caribbean: Dead Man's Chest,"Action,Adventure,Fantasy",516445290,1,Best Visual Effects,true
+2007,Poseidon,"Action,Adventure,Drama",74023276,48,Best Visual Effects,false
+2007,Superman Returns,"Action,Adventure",244099054,7,Best Visual Effects,false
+2006,Crash,"Crime,Drama,Thriller",68225375,57,Best Picture,true
+2006,"Good Night, and Good Luck.","Biography,Drama,History",39376522,89,Best Picture,false
+2006,Brokeback Mountain,"Drama,Romance",103804701,22,Best Picture,false
+2006,Munich,"Drama,History,Thriller",59254606,61,Best Picture,false
+2006,Capote,"Biography,Crime,Drama",35934462,95,Best Picture,false
+2006,Le secret de Brokeback Mountain,"Drama,Romance",103804701,22,Best Directing,true
+2006,Truman Capote,"Biography,Crime,Drama",35934462,95,Best Directing,false
+2006,"Good Night, and Good Luck","Biography,Drama,History",39376522,89,Best Directing,false
+2006,Collision,"Crime,Drama,Thriller",68225375,57,Best Directing,false
+2006,Munich,"Drama,History,Thriller",59254606,61,Best Directing,false
+2006,Crash,"Crime,Drama,Thriller",68225375,57,Best Original Screenplay,true
+2006,"Good Night, and Good Luck.","Biography,Drama,History",39376522,89,Best Original Screenplay,false
+2006,The Squid and the Whale,"Comedy,Drama",9202625,159,Best Original Screenplay,false
+2006,Match Point,"Drama,Romance,Thriller",28862407,108,Best Original Screenplay,false
+2006,Syriana,"Drama,Thriller",63530775,55,Best Original Screenplay,false
+2006,Brokeback Mountain,"Drama,Romance",103804701,22,Best Adapted Screenplay,true
+2006,A History of Violence,"Drama,Thriller",39367227,90,Best Adapted Screenplay,false
+2006,Munich,"Drama,History,Thriller",59254606,61,Best Adapted Screenplay,false
+2006,The Constant Gardener,"Drama,Mystery,Romance",41974746,80,Best Adapted Screenplay,false
+2006,Capote,"Biography,Crime,Drama",35934462,95,Best Adapted Screenplay,false
+2006,Memoirs of a Geisha,"Drama,Romance",71863135,45,Best Cinematography,true
+2006,Batman Begins,"Action,Adventure,Thriller",258565540,7,Best Cinematography,false
+2006,"Good Night, and Good Luck.","Biography,Drama,History",39376522,89,Best Cinematography,false
+2006,The New World,"Biography,Drama,History",15890116,138,Best Cinematography,false
+2006,Brokeback Mountain,"Drama,Romance",103804701,22,Best Cinematography,false
+2006,King Kong,"Action,Adventure,Drama",272600031,5,Best Visual Effects,true
+2006,War of the Worlds,"Adventure,Sci-Fi,Thriller",292850442,4,Best Visual Effects,false
+2006,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure,Family,Fantasy",364637306,2,Best Visual Effects,false
+2005,Million Dollar Baby,"Drama,Sport",129634941,23,Best Picture,true
+2005,The Aviator,"Biography,Drama,History",132365386,21,Best Picture,false
+2005,Finding Neverland,"Biography,Drama,Family",66667990,60,Best Picture,false
+2005,Ray,"Biography,Drama,Music",97177764,36,Best Picture,false
+2005,Sideways,"Comedy,Drama,Romance",92239634,39,Best Picture,false
+2005,Million Dollar Baby,"Drama,Sport",129634941,23,Best Directing,true
+2005,Sideways,"Comedy,Drama,Romance",92239634,39,Best Directing,false
+2005,Aviator,"Biography,Drama,History",132365386,21,Best Directing,false
+2005,Vera Drake,"Crime,Drama",4842409,176,Best Directing,false
+2005,Ray,"Biography,Drama,Music",97177764,36,Best Directing,false
+2005,Eternal Sunshine of the Spotless Mind,"Drama,Romance,Sci-Fi",44376388,79,Best Original Screenplay,true
+2005,The Aviator,"Biography,Drama,History",132365386,21,Best Original Screenplay,false
+2005,Hotel Rwanda,"Biography,Drama,History",30354850,96,Best Original Screenplay,false
+2005,The Incredibles,"Animation,Action,Adventure",337259008,5,Best Original Screenplay,false
+2005,Vera Drake,"Crime,Drama",4842409,176,Best Original Screenplay,false
+2005,Sideways,"Comedy,Drama,Romance",92239634,39,Best Adapted Screenplay,true
+2005,Before Sunset,"Drama,Romance",7472740,159,Best Adapted Screenplay,false
+2005,Diarios de motocicleta,"Adventure,Biography,Drama",21615719,115,Best Adapted Screenplay,false
+2005,Million Dollar Baby,"Drama,Sport",129634941,23,Best Adapted Screenplay,false
+2005,Finding Neverland,"Biography,Drama,Family",66667990,60,Best Adapted Screenplay,false
+2005,The Aviator,"Biography,Drama,History",132365386,21,Best Cinematography,true
+2005,The Passion of the Christ,"Drama",478309979,3,Best Cinematography,false
+2005,The Phantom of the Opera,"Drama,Musical,Romance",66136771,62,Best Cinematography,false
+2005,Shi mian mai fu,"Action,Adventure,Drama",14254621,137,Best Cinematography,false
+2005,Un long dimanche de fiançailles,"Drama,Mystery,Romance",7956483,157,Best Cinematography,false
+2005,Spider-Man 2,"Action,Adventure,Sci-Fi",481925714,2,Best Visual Effects,true
+2005,Harry Potter and the Prisoner of Azkaban,"Adventure,Family,Fantasy",321672757,6,Best Visual Effects,false
+2005,"I, Robot","Action,Crime,Drama",186793319,12,Best Visual Effects,false
+2004,The Lord of the Rings: The Return of the King,"Action,Adventure,Drama",502535053,2,Best Picture,true
+2004,Lost in Translation,"Drama",59298652,65,Best Picture,false
+2004,Master and Commander: The Far Side of the World,"Action,Adventure,Drama",124924133,31,Best Picture,false
+2004,Mystic River,"Crime,Drama,Mystery",119879804,33,Best Picture,false
+2004,Seabiscuit,"Drama,History,Sport",159969545,17,Best Picture,false
+2004,Lost in Translation,"Drama",59298652,65,Best Original Screenplay,true
+2004,Dirty Pretty Things,"Crime,Drama,Thriller",10788108,148,Best Original Screenplay,false
+2004,In America,"Drama",20667223,122,Best Original Screenplay,false
+2004,Finding Nemo,"Animation,Adventure,Comedy",506521537,1,Best Original Screenplay,false
+2004,Les invasions barbares,"Comedy,Crime,Drama",4565014,153,Best Original Screenplay,false
+2004,The Lord of the Rings: The Return of the King,"Action,Adventure,Drama",502535053,2,Best Adapted Screenplay,true
+2004,American Splendor,"Biography,Comedy,Drama",7984770,140,Best Adapted Screenplay,false
+2004,Cidade de Deus,"Crime,Drama",10059318,149,Best Adapted Screenplay,false
+2004,Mystic River,"Crime,Drama,Mystery",119879804,33,Best Adapted Screenplay,false
+2004,Seabiscuit,"Drama,History,Sport",159969545,17,Best Adapted Screenplay,false
+2004,Master and Commander: The Far Side of the World,"Action,Adventure,Drama",124924133,31,Best Cinematography,true
+2004,Cidade de Deus,"Crime,Drama",10059318,149,Best Cinematography,false
+2004,Girl with a Pearl Earring,"Biography,Drama,Romance",15473701,126,Best Cinematography,false
+2004,Seabiscuit,"Drama,History,Sport",159969545,17,Best Cinematography,false
+2004,Cold Mountain,"Adventure,Drama,History",127196556,30,Best Cinematography,false
+2004,The Lord of the Rings: The Return of the King,"Action,Adventure,Drama",502535053,2,Best Visual Effects,true
+2004,Master and Commander: The Far Side of the World,"Action,Adventure,Drama",124924133,31,Best Visual Effects,false
+2004,Pirates of the Caribbean: The Curse of the Black Pearl,"Action,Adventure,Fantasy",406200510,3,Best Visual Effects,false
+2004,Le seigneur des anneaux: Le retour du roi,"Action,Adventure,Drama",502535053,2,Best Directing,true
+2004,Mystic River,"Crime,Drama,Mystery",119879804,33,Best Directing,false
+2004,La Cité de Dieu,"Crime,Drama",10059318,149,Best Directing,false
+2004,Master and commander: De l'autre côté du monde,"Action,Adventure,Drama",124924133,31,Best Directing,false
+2004,Lost in Translation,"Drama",59298652,65,Best Directing,false
+2003,Chicago,"Comedy,Crime,Musical",233841899,10,Best Picture,true
+2003,Gangs of New York,"Crime,Drama",106602440,34,Best Picture,false
+2003,The Pianist,"Biography,Drama,Music",44624430,80,Best Picture,false
+2003,The Lord of the Rings: The Two Towers,"Adventure,Drama,Fantasy",469295370,2,Best Picture,false
+2003,The Hours,"Drama,Romance",57096111,57,Best Picture,false
+2003,Le pianiste,"Biography,Drama,Music",44624430,80,Best Directing,true
+2003,Gangs of New York,"Crime,Drama",106602440,34,Best Directing,false
+2003,Parle avec elle,"Drama,Mystery,Romance",12719443,143,Best Directing,false
+2003,Chicago,"Comedy,Crime,Musical",233841899,10,Best Directing,false
+2003,The Hours,"Drama,Romance",57096111,57,Best Directing,false
+2003,Hable con ella,"Drama,Mystery,Romance",12719443,143,Best Original Screenplay,true
+2003,Y tu mamá también,"Adventure,Comedy,Drama",18662596,115,Best Original Screenplay,false
+2003,Gangs of New York,"Crime,Drama",106602440,34,Best Original Screenplay,false
+2003,Far from Heaven,"Drama",21721333,121,Best Original Screenplay,false
+2003,My Big Fat Greek Wedding,"Comedy,Drama,Romance",330770344,5,Best Original Screenplay,false
+2003,The Pianist,"Biography,Drama,Music",44624430,80,Best Adapted Screenplay,true
+2003,Adaptation.,"Comedy,Drama",30476829,103,Best Adapted Screenplay,false
+2003,Chicago,"Comedy,Crime,Musical",233841899,10,Best Adapted Screenplay,false
+2003,About a Boy,"Comedy,Drama,Romance",56697830,59,Best Adapted Screenplay,false
+2003,The Hours,"Drama,Romance",57096111,57,Best Adapted Screenplay,false
+2003,Road to Perdition,"Crime,Drama,Thriller",143103023,24,Best Cinematography,true
+2003,Chicago,"Comedy,Crime,Musical",233841899,10,Best Cinematography,false
+2003,Gangs of New York,"Crime,Drama",106602440,34,Best Cinematography,false
+2003,The Pianist,"Biography,Drama,Music",44624430,80,Best Cinematography,false
+2003,Far from Heaven,"Drama",21721333,121,Best Cinematography,false
+2003,The Lord of the Rings: The Two Towers,"Adventure,Drama,Fantasy",469295370,2,Best Visual Effects,true
+2003,Spider-Man,"Action,Adventure,Sci-Fi",553077733,1,Best Visual Effects,false
+2003,Star Wars: Episode II - Attack of the Clones,"Action,Adventure,Fantasy",425625548,3,Best Visual Effects,false
+2002,A Beautiful Mind,"Biography,Drama",239039277,11,Best Picture,true
+2002,Gosford Park,"Comedy,Drama,Mystery",57832061,58,Best Picture,false
+2002,In the Bedroom,"Crime,Drama",50302845,67,Best Picture,false
+2002,The Lord of the Rings: The Fellowship of the Ring,"Adventure,Drama,Fantasy",441762650,2,Best Picture,false
+2002,Moulin Rouge!,"Drama,Musical,Romance",80341249,42,Best Picture,false
+2002,Un homme d'exception,"Biography,Drama",239039277,11,Best Directing,true
+2002,Mulholland Drive,"Drama,Mystery,Thriller",10108340,136,Best Directing,false
+2002,Le seigneur des anneaux: La communauté de l'anneau,"Adventure,Drama,Fantasy",441762650,2,Best Directing,false
+2002,La chute du faucon noir,"Drama,History,War",152094243,18,Best Directing,false
+2002,Gosford Park,"Comedy,Drama,Mystery",57832061,58,Best Directing,false
+2002,Gosford Park,"Comedy,Drama,Mystery",57832061,58,Best Original Screenplay,true
+2002,The Royal Tenenbaums,"Comedy,Drama",73309614,47,Best Original Screenplay,false
+2002,Le fabuleux destin d'Amélie Poulain,"Comedy,Romance",46515698,70,Best Original Screenplay,false
+2002,Memento,"Mystery,Thriller",35762813,86,Best Original Screenplay,false
+2002,Monster's Ball,"Drama,Romance",43754149,75,Best Original Screenplay,false
+2002,A Beautiful Mind,"Biography,Drama",239039277,11,Best Adapted Screenplay,true
+2002,Ghost World,"Comedy,Drama",8704988,141,Best Adapted Screenplay,false
+2002,In the Bedroom,"Crime,Drama",50302845,67,Best Adapted Screenplay,false
+2002,The Lord of the Rings: The Fellowship of the Ring,"Adventure,Drama,Fantasy",441762650,2,Best Adapted Screenplay,false
+2002,Shrek,"Animation,Adventure,Comedy",374731015,4,Best Adapted Screenplay,false
+2002,The Lord of the Rings: The Fellowship of the Ring,"Adventure,Drama,Fantasy",441762650,2,Best Cinematography,true
+2002,Black Hawk Down,"Drama,History,War",152094243,18,Best Cinematography,false
+2002,Le fabuleux destin d'Amélie Poulain,"Comedy,Romance",46515698,70,Best Cinematography,false
+2002,Moulin Rouge!,"Drama,Musical,Romance",80341249,42,Best Cinematography,false
+2002,The Man Who Wasn't There,"Crime,Drama",10492788,133,Best Cinematography,false
+2002,The Lord of the Rings: The Fellowship of the Ring,"Adventure,Drama,Fantasy",441762650,2,Best Visual Effects,true
+2002,Artificial Intelligence: AI,"Adventure,Drama,Sci-Fi",110063364,28,Best Visual Effects,false
+2002,Pearl Harbor,"Action,Drama,History",277959575,7,Best Visual Effects,false
+2001,Wo hu cang long,"Action,Adventure,Fantasy",181871998,12,Best Cinematography,true
+2001,Gladiator,"Action,Adventure,Drama",266541706,4,Best Cinematography,false
+2001,Malèna,"Comedy,Drama,Romance",4869243,153,Best Cinematography,false
+2001,"O Brother, Where Art Thou?","Adventure,Comedy,Crime",64627874,54,Best Cinematography,false
+2001,The Patriot,"Action,Drama,History",160929085,19,Best Cinematography,false
+2001,Traffic,"Crime,Drama,Thriller",176244329,15,Best Directing,true
+2001,Tigre et dragon,"Action,Adventure,Fantasy",181871998,12,Best Directing,false
+2001,Gladiator,"Action,Adventure,Drama",266541706,4,Best Directing,false
+2001,Billy Elliot,"Drama,Music,Romance",31233273,90,Best Directing,false
+2001,"Erin Brockovich, seule contre tous","Biography,Drama",178345191,13,Best Directing,false
+2001,Gladiator,"Action,Adventure,Drama",266541706,4,Best Visual Effects,true
+2001,The Perfect Storm,"Action,Adventure,Drama",259318176,6,Best Visual Effects,false
+2001,Hollow Man,"Action,Horror,Sci-Fi",103957262,31,Best Visual Effects,false
+2001,Gladiator,"Action,Adventure,Drama",266541706,4,Best Picture,true
+2001,Erin Brockovich,"Biography,Drama",178345191,13,Best Picture,false
+2001,Chocolat,"Drama,Romance",101543295,32,Best Picture,false
+2001,Wo hu cang long,"Action,Adventure,Fantasy",181871998,12,Best Picture,false
+2001,Traffic,"Crime,Drama,Thriller",176244329,15,Best Picture,false
+2001,Traffic,"Crime,Drama,Thriller",176244329,15,Best Adapted Screenplay,true
+2001,Chocolat,"Drama,Romance",101543295,32,Best Adapted Screenplay,false
+2001,"O Brother, Where Art Thou?","Adventure,Comedy,Crime",64627874,54,Best Adapted Screenplay,false
+2001,Wo hu cang long,"Action,Adventure,Fantasy",181871998,12,Best Adapted Screenplay,false
+2001,Wonder Boys,"Comedy,Drama",27533024,95,Best Adapted Screenplay,false
+2001,Almost Famous,"Adventure,Comedy,Drama",46199487,76,Best Original Screenplay,true
+2001,Billy Elliot,"Drama,Music,Romance",31233273,90,Best Original Screenplay,false
+2001,Erin Brockovich,"Biography,Drama",178345191,13,Best Original Screenplay,false
+2001,Gladiator,"Action,Adventure,Drama",266541706,4,Best Original Screenplay,false
+2001,You Can Count on Me,"Drama",13035990,126,Best Original Screenplay,false
+2000,American Beauty,"Drama",189941037,13,Best Cinematography,true
+2000,The End of the Affair,"Drama,Romance",15563814,122,Best Cinematography,false
+2000,Snow Falling on Cedars,"Drama,Mystery,Romance",20992395,103,Best Cinematography,false
+2000,The Insider,"Biography,Drama,Thriller",42289187,70,Best Cinematography,false
+2000,Sleepy Hollow,"Fantasy,Horror,Mystery",147564392,21,Best Cinematography,false
+2000,American Beauty,"Drama",189941037,13,Best Directing,true
+2000,"L'oeuvre de Dieu, la part du diable","Drama,Romance",84015834,41,Best Directing,false
+2000,Sixième sens,"Drama,Mystery,Thriller",428519186,2,Best Directing,false
+2000,Révélations,"Biography,Drama,Thriller",42289187,70,Best Directing,false
+2000,Dans la peau de John Malkovich,"Comedy,Drama,Fantasy",33374031,80,Best Directing,false
+2000,The Matrix,"Action,Sci-Fi",250360697,5,Best Visual Effects,true
+2000,Star Wars: Episode I - The Phantom Menace,"Action,Adventure,Fantasy",692835228,1,Best Visual Effects,false
+2000,Stuart Little,"Adventure,Comedy,Family",204451635,11,Best Visual Effects,false
+2000,American Beauty,"Drama",189941037,13,Best Picture,true
+2000,The Cider House Rules,"Drama,Romance",84015834,41,Best Picture,false
+2000,The Green Mile,"Crime,Drama,Fantasy",199730006,12,Best Picture,false
+2000,The Insider,"Biography,Drama,Thriller",42289187,70,Best Picture,false
+2000,The Sixth Sense,"Drama,Mystery,Thriller",428519186,2,Best Picture,false
+2000,The Cider House Rules,"Drama,Romance",84015834,41,Best Adapted Screenplay,true
+2000,Election,"Comedy,Drama,Romance",21724151,101,Best Adapted Screenplay,false
+2000,The Green Mile,"Crime,Drama,Fantasy",199730006,12,Best Adapted Screenplay,false
+2000,The Talented Mr. Ripley,"Crime,Drama,Thriller",118695466,26,Best Adapted Screenplay,false
+2000,The Insider,"Biography,Drama,Thriller",42289187,70,Best Adapted Screenplay,false
+2000,American Beauty,"Drama",189941037,13,Best Original Screenplay,true
+2000,Being John Malkovich,"Comedy,Drama,Fantasy",33374031,80,Best Original Screenplay,false
+2000,Magnolia,"Drama",32785724,81,Best Original Screenplay,false
+2000,The Sixth Sense,"Drama,Mystery,Thriller",428519186,2,Best Original Screenplay,false
+2000,Topsy-Turvy,"Biography,Comedy,Drama",9054565,142,Best Original Screenplay,false
+1999,Saving Private Ryan,"Drama,War",326976772,1,Best Cinematography,true
+1999,Elizabeth,"Biography,Drama,History",45424875,62,Best Cinematography,false
+1999,The Thin Red Line,"Drama,War",54964741,57,Best Cinematography,false
+1999,A Civil Action,"Drama",85621380,37,Best Cinematography,false
+1999,Shakespeare in Love,"Comedy,Drama,History",151479868,18,Best Cinematography,false
+1999,Il faut sauver le soldat Ryan,"Drama,War",326976772,1,Best Directing,true
+1999,Shakespeare in Love,"Comedy,Drama,History",151479868,18,Best Directing,false
+1999,The Truman Show,"Comedy,Drama,Sci-Fi",189683483,12,Best Directing,false
+1999,La vie est belle,"Comedy,Drama,Romance",86973352,31,Best Directing,false
+1999,La ligne rouge,"Drama,War",54964741,57,Best Directing,false
+1999,What Dreams May Come,"Drama,Fantasy,Romance",83782414,39,Best Visual Effects,true
+1999,Armageddon,"Action,Adventure,Sci-Fi",304375820,2,Best Visual Effects,false
+1999,Mighty Joe Young,"Action,Adventure,Family",76454375,43,Best Visual Effects,false
+1999,Shakespeare in Love,"Comedy,Drama,History",151479868,18,Best Picture,true
+1999,Elizabeth,"Biography,Drama,History",45424875,62,Best Picture,false
+1999,Saving Private Ryan,"Drama,War",326976772,1,Best Picture,false
+1999,The Thin Red Line,"Drama,War",54964741,57,Best Picture,false
+1999,La vita è bella,"Comedy,Drama,Romance",86973352,31,Best Picture,false
+1999,Gods and Monsters,"Biography,Drama",9648948,137,Best Adapted Screenplay,true
+1999,Out of Sight,"Crime,Drama,Romance",56719477,55,Best Adapted Screenplay,false
+1999,The Thin Red Line,"Drama,War",54964741,57,Best Adapted Screenplay,false
+1999,Primary Colors,"Comedy,Drama",58838746,52,Best Adapted Screenplay,false
+1999,A Simple Plan,"Crime,Drama,Thriller",24630762,94,Best Adapted Screenplay,false
+1999,Shakespeare in Love,"Comedy,Drama,History",151479868,18,Best Original Screenplay,true
+1999,Bulworth,"Comedy,Drama,Romance",40054009,68,Best Original Screenplay,false
+1999,Saving Private Ryan,"Drama,War",326976772,1,Best Original Screenplay,false
+1999,La vita è bella,"Comedy,Drama,Romance",86973352,31,Best Original Screenplay,false
+1999,The Truman Show,"Comedy,Drama,Sci-Fi",189683483,12,Best Original Screenplay,false
+1998,Titanic,"Drama,Romance",1021954337,1,Best Cinematography,true
+1998,Amistad,"Drama,History",68471860,48,Best Cinematography,false
+1998,Kundun,"Biography,Drama,History",8575066,141,Best Cinematography,false
+1998,L.A. Confidential,"Crime,Drama,Mystery",100156257,22,Best Cinematography,false
+1998,The Wings of the Dove,"Drama,Romance",21263496,102,Best Cinematography,false
+1998,Titanic,"Drama,Romance",1021954337,1,Best Directing,true
+1998,De beaux lendemains,"Drama",5041610,157,Best Directing,false
+1998,L.A. Confidential,"Crime,Drama,Mystery",100156257,22,Best Directing,false
+1998,Will Hunting,"Drama,Romance",214571824,7,Best Directing,false
+1998,The Full Monty: Le grand jeu,"Comedy,Drama",71222689,43,Best Directing,false
+1998,Titanic,"Drama,Romance",1021954337,1,Best Visual Effects,true
+1998,The Lost World: Jurassic Park,"Action,Adventure,Sci-Fi",355084352,3,Best Visual Effects,false
+1998,Starship Troopers,"Action,Adventure,Sci-Fi",84962284,34,Best Visual Effects,false
+1998,Titanic,"Drama,Romance",1021954337,1,Best Picture,true
+1998,L.A. Confidential,"Crime,Drama,Mystery",100156257,22,Best Picture,false
+1998,As Good as It Gets,"Comedy,Drama,Romance",230140917,6,Best Picture,false
+1998,The Full Monty,"Comedy,Drama",71222689,43,Best Picture,false
+1998,Good Will Hunting,"Drama,Romance",214571824,7,Best Picture,false
+1998,L.A. Confidential,"Crime,Drama,Mystery",100156257,22,Best Adapted Screenplay,true
+1998,The Sweet Hereafter,"Drama",5041610,157,Best Adapted Screenplay,false
+1998,Wag the Dog,"Comedy,Drama",66684912,50,Best Adapted Screenplay,false
+1998,Donnie Brasco,"Biography,Crime,Drama",64960131,52,Best Adapted Screenplay,false
+1998,The Wings of the Dove,"Drama,Romance",21263496,102,Best Adapted Screenplay,false
+1998,Good Will Hunting,"Drama,Romance",214571824,7,Best Original Screenplay,true
+1998,Boogie Nights,"Drama",40920992,77,Best Original Screenplay,false
+1998,Deconstructing Harry,"Comedy",16382060,113,Best Original Screenplay,false
+1998,As Good as It Gets,"Comedy,Drama,Romance",230140917,6,Best Original Screenplay,false
+1998,The Full Monty,"Comedy,Drama",71222689,43,Best Original Screenplay,false
+1997,The English Patient,"Drama,Romance,War",123482745,19,Best Cinematography,true
+1997,Evita,"Biography,Drama,History",78574071,31,Best Cinematography,false
+1997,Fargo,"Crime,Drama,Thriller",38640800,66,Best Cinematography,false
+1997,Fly Away Home,"Adventure,Drama,Family",38474548,67,Best Cinematography,false
+1997,Michael Collins,"Biography,Drama,Thriller",17415317,121,Best Cinematography,false
+1997,Le patient anglais,"Drama,Romance,War",123482745,19,Best Directing,true
+1997,Fargo,"Crime,Drama,Thriller",38640800,66,Best Directing,false
+1997,Secrets et mensonges,"Drama",21065148,108,Best Directing,false
+1997,Larry Flynt,"Biography,Drama",31700359,80,Best Directing,false
+1997,Shine,"Biography,Drama,Music",56224069,42,Best Directing,false
+1997,Independence Day,"Action,Adventure,Sci-Fi",480685730,1,Best Visual Effects,true
+1997,DragonHeart,"Action,Adventure,Fantasy",80646778,29,Best Visual Effects,false
+1997,Twister,"Action,Adventure,Drama",379502792,2,Best Visual Effects,false
+1997,The English Patient,"Drama,Romance,War",123482745,19,Best Picture,true
+1997,Fargo,"Crime,Drama,Thriller",38640800,66,Best Picture,false
+1997,Jerry Maguire,"Comedy,Drama,Romance",241705569,4,Best Picture,false
+1997,Secrets & Lies,"Drama",21065148,108,Best Picture,false
+1997,Shine,"Biography,Drama,Music",56224069,42,Best Picture,false
+1997,Sling Blade,"Drama",38426403,68,Best Adapted Screenplay,true
+1997,Hamlet,"Drama",6930819,157,Best Adapted Screenplay,false
+1997,The Crucible,"Drama,History",11523961,139,Best Adapted Screenplay,false
+1997,The English Patient,"Drama,Romance,War",123482745,19,Best Adapted Screenplay,false
+1997,Trainspotting,"Drama",25907802,97,Best Adapted Screenplay,false
+1997,Fargo,"Crime,Drama,Thriller",38640800,66,Best Original Screenplay,true
+1997,Jerry Maguire,"Comedy,Drama,Romance",241705569,4,Best Original Screenplay,false
+1997,Lone Star,"Drama,Mystery",20833841,109,Best Original Screenplay,false
+1997,Secrets & Lies,"Drama",21065148,108,Best Original Screenplay,false
+1997,Shine,"Biography,Drama,Music",56224069,42,Best Original Screenplay,false
+1996,Braveheart,"Biography,Drama,History",121716000,18,Best Cinematography,true
+1996,Batman Forever,"Action,Adventure,Fantasy",296290090,2,Best Cinematography,false
+1996,A Little Princess,"Drama,Family,Fantasy",16131084,114,Best Cinematography,false
+1996,Sense and Sensibility,"Drama,Romance",69524269,39,Best Cinematography,false
+1996,"Yao a yao, yao dao wai po qiao","Crime,Drama,Romance",3703000,171,Best Cinematography,false
+1996,Braveheart,"Biography,Drama,History",121716000,18,Best Directing,true
+1996,"Babe, le cochon devenu berger","Comedy,Drama,Family",107226000,27,Best Directing,false
+1996,Le facteur,"Biography,Comedy,Drama",35176780,62,Best Directing,false
+1996,Leaving Las Vegas,"Drama,Romance",51469038,57,Best Directing,false
+1996,La dernière marche,"Crime,Drama",63413527,42,Best Directing,false
+1996,Babe,"Comedy,Drama,Family",107226000,27,Best Visual Effects,true
+1996,Apollo 13,"Adventure,Drama,History",279879072,3,Best Visual Effects,false
+1996,Braveheart,"Biography,Drama,History",121716000,18,Best Picture,true
+1996,Apollo 13,"Adventure,Drama,History",279879072,3,Best Picture,false
+1996,Babe,"Comedy,Drama,Family",107226000,27,Best Picture,false
+1996,Il postino,"Biography,Comedy,Drama",35176780,62,Best Picture,false
+1996,Sense and Sensibility,"Drama,Romance",69524269,39,Best Picture,false
+1996,Sense and Sensibility,"Drama,Romance",69524269,39,Best Adapted Screenplay,true
+1996,Apollo 13,"Adventure,Drama,History",279879072,3,Best Adapted Screenplay,false
+1996,Babe,"Comedy,Drama,Family",107226000,27,Best Adapted Screenplay,false
+1996,Il postino,"Biography,Comedy,Drama",35176780,62,Best Adapted Screenplay,false
+1996,Leaving Las Vegas,"Drama,Romance",51469038,57,Best Adapted Screenplay,false
+1996,The Usual Suspects,"Crime,Mystery,Thriller",37579924,76,Best Original Screenplay,true
+1996,Braveheart,"Biography,Drama,History",121716000,18,Best Original Screenplay,false
+1996,Mighty Aphrodite,"Comedy,Fantasy,Romance",10787000,134,Best Original Screenplay,false
+1996,Nixon,"Biography,Drama,History",21833145,98,Best Original Screenplay,false
+1996,Toy Story,"Animation,Adventure,Comedy",308791935,1,Best Original Screenplay,false
+1995,Legends of the Fall,"Drama,Romance,War",109954156,18,Best Cinematography,true
+1995,Forrest Gump,"Drama,Romance",544916100,1,Best Cinematography,false
+1995,The Shawshank Redemption,"Drama",46763423,52,Best Cinematography,false
+1995,Trois couleurs: Rouge,"Drama,Mystery,Romance",6672081,147,Best Cinematography,false
+1995,Wyatt Earp,"Adventure,Biography,Crime",41335800,56,Best Cinematography,false
+1995,Forrest Gump,"Drama,Romance",544916100,1,Best Directing,true
+1995,Trois couleurs: Rouge,"Drama,Mystery,Romance",6672081,147,Best Directing,false
+1995,Pulp Fiction,"Crime,Drama",178082457,10,Best Directing,false
+1995,Quiz Show,"Biography,Drama,History",40957321,57,Best Directing,false
+1995,Coups de feu sur Broadway,"Comedy,Crime",22083166,99,Best Directing,false
+1995,Forrest Gump,"Drama,Romance",544916100,1,Best Visual Effects,true
+1995,The Mask,"Comedy,Fantasy",197898904,9,Best Visual Effects,false
+1995,True Lies,"Action,Comedy,Thriller",241365978,3,Best Visual Effects,false
+1995,Forrest Gump,"Drama,Romance",544916100,1,Best Picture,true
+1995,Four Weddings and a Funeral,"Comedy,Drama,Romance",86956372,22,Best Picture,false
+1995,The Shawshank Redemption,"Drama",46763423,52,Best Picture,false
+1995,Pulp Fiction,"Crime,Drama",178082457,10,Best Picture,false
+1995,Quiz Show,"Biography,Drama,History",40957321,57,Best Picture,false
+1995,Forrest Gump,"Drama,Romance",544916100,1,Best Adapted Screenplay,true
+1995,The Madness of King George,"Biography,Comedy,Drama",25144340,94,Best Adapted Screenplay,false
+1995,The Shawshank Redemption,"Drama",46763423,52,Best Adapted Screenplay,false
+1995,Quiz Show,"Biography,Drama,History",40957321,57,Best Adapted Screenplay,false
+1995,Nobody's Fool,"Comedy,Drama",65154681,36,Best Adapted Screenplay,false
+1995,Pulp Fiction,"Crime,Drama",178082457,10,Best Original Screenplay,true
+1995,Four Weddings and a Funeral,"Comedy,Drama,Romance",86956372,22,Best Original Screenplay,false
+1995,Bullets Over Broadway,"Comedy,Crime",22083166,99,Best Original Screenplay,false
+1995,Heavenly Creatures,"Biography,Crime,Drama",5031072,157,Best Original Screenplay,false
+1995,Trois couleurs: Rouge,"Drama,Mystery,Romance",6672081,147,Best Original Screenplay,false
+1994,Schindler's List,"Biography,Drama,History",163314204,9,Best Cinematography,true
+1994,Ba wang bie ji,"Drama,Music,Romance",8868709,137,Best Cinematography,false
+1994,The Piano,"Drama,Music,Romance",68268600,37,Best Cinematography,false
+1994,The Fugitive,"Action,Crime,Drama",312588792,3,Best Cinematography,false
+1994,Searching for Bobby Fischer,"Biography,Drama",12352851,122,Best Cinematography,false
+1994,La liste de Schindler,"Biography,Drama,History",163314204,9,Best Directing,true
+1994,Les vestiges du jour,"Drama,Romance",39023445,66,Best Directing,false
+1994,La leçon de piano,"Drama,Music,Romance",68268600,37,Best Directing,false
+1994,Au nom du père,"Biography,Drama",42517697,60,Best Directing,false
+1994,Short Cuts - Les Américains,"Comedy,Drama",10388664,130,Best Directing,false
+1994,Jurassic Park,"Adventure,Sci-Fi,Thriller",684171599,1,Best Visual Effects,true
+1994,Cliffhanger,"Action,Adventure,Thriller",142883658,10,Best Visual Effects,false
+1994,The Nightmare Before Christmas,"Animation,Family,Fantasy",127640535,13,Best Visual Effects,false
+1994,Schindler's List,"Biography,Drama,History",163314204,9,Best Picture,true
+1994,In the Name of the Father,"Biography,Drama",42517697,60,Best Picture,false
+1994,The Piano,"Drama,Music,Romance",68268600,37,Best Picture,false
+1994,The Fugitive,"Action,Crime,Drama",312588792,3,Best Picture,false
+1994,The Remains of the Day,"Drama,Romance",39023445,66,Best Picture,false
+1994,Schindler's List,"Biography,Drama,History",163314204,9,Best Adapted Screenplay,true
+1994,In the Name of the Father,"Biography,Drama",42517697,60,Best Adapted Screenplay,false
+1994,The Age of Innocence,"Drama,Romance",54740000,50,Best Adapted Screenplay,false
+1994,Shadowlands,"Biography,Drama,Romance",43931400,59,Best Adapted Screenplay,false
+1994,The Remains of the Day,"Drama,Romance",39023445,66,Best Adapted Screenplay,false
+1994,The Piano,"Drama,Music,Romance",68268600,37,Best Original Screenplay,true
+1994,In the Line of Fire,"Action,Crime,Drama",173934281,7,Best Original Screenplay,false
+1994,Sleepless in Seattle,"Comedy,Drama,Romance",215106110,5,Best Original Screenplay,false
+1994,Philadelphia,"Drama",131451517,12,Best Original Screenplay,false
+1994,Dave,"Comedy,Romance",107560207,17,Best Original Screenplay,false
+1993,A River Runs Through It,"Drama",75586111,37,Best Cinematography,true
+1993,Hoffa,"Biography,Crime,Drama",42241110,52,Best Cinematography,false
+1993,Unforgiven,"Drama,Western",176013957,11,Best Cinematography,false
+1993,L'amant,"Biography,Drama,Romance",8524597,125,Best Cinematography,false
+1993,Howards End,"Drama,Romance",45182580,48,Best Cinematography,false
+1993,Impitoyable,"Drama,Western",176013957,11,Best Directing,true
+1993,Retour à Howards End,"Drama,Romance",45182580,48,Best Directing,false
+1993,Le temps d'un week-end,"Drama",111178356,19,Best Directing,false
+1993,The Crying Game,"Crime,Drama,Romance",108835260,20,Best Directing,false
+1993,The Player,"Comedy,Crime,Drama",37768614,57,Best Directing,false
+1993,Death Becomes Her,"Comedy,Fantasy,Horror",101655411,24,Best Visual Effects,true
+1993,Alien³,"Action,Horror,Sci-Fi",96524064,28,Best Visual Effects,false
+1993,Batman Returns,"Action,Crime,Fantasy",283327154,3,Best Visual Effects,false
+1993,Unforgiven,"Drama,Western",176013957,11,Best Picture,true
+1993,A Few Good Men,"Drama,Thriller",245931909,5,Best Picture,false
+1993,Scent of a Woman,"Drama",111178356,19,Best Picture,false
+1993,Howards End,"Drama,Romance",45182580,48,Best Picture,false
+1993,The Crying Game,"Crime,Drama,Romance",108835260,20,Best Picture,false
+1993,Howards End,"Drama,Romance",45182580,48,Best Adapted Screenplay,true
+1993,Enchanted April,"Drama",22968295,84,Best Adapted Screenplay,false
+1993,A River Runs Through It,"Drama",75586111,37,Best Adapted Screenplay,false
+1993,Scent of a Woman,"Drama",111178356,19,Best Adapted Screenplay,false
+1993,The Player,"Comedy,Crime,Drama",37768614,57,Best Adapted Screenplay,false
+1993,The Crying Game,"Crime,Drama,Romance",108835260,20,Best Original Screenplay,true
+1993,Unforgiven,"Drama,Western",176013957,11,Best Original Screenplay,false
+1993,Lorenzo's Oil,"Drama",12678315,107,Best Original Screenplay,false
+1993,Husbands and Wives,"Comedy,Drama,Romance",18366777,96,Best Original Screenplay,false
+1993,Passion Fish,"Drama",9421437,119,Best Original Screenplay,false
+1992,JFK,"Drama,History,Thriller",126729896,17,Best Cinematography,true
+1992,Bugsy,"Biography,Crime,Drama",88405228,24,Best Cinematography,false
+1992,The Prince of Tides,"Drama,Romance",134617678,16,Best Cinematography,false
+1992,Terminator 2: Judgment Day,"Action,Sci-Fi",368718030,2,Best Cinematography,false
+1992,Thelma & Louise,"Adventure,Crime,Drama",81649800,27,Best Cinematography,false
+1992,Le silence des agneaux,"Crime,Drama,Thriller",235337259,4,Best Directing,true
+1992,Bugsy,"Biography,Crime,Drama",88405228,24,Best Directing,false
+1992,"Boyz'n the Hood, la loi de la rue","Crime,Drama",103507324,22,Best Directing,false
+1992,JFK,"Drama,History,Thriller",126729896,17,Best Directing,false
+1992,Thelma & Louise,"Adventure,Crime,Drama",81649800,27,Best Directing,false
+1992,Terminator 2: Judgment Day,"Action,Sci-Fi",368718030,2,Best Visual Effects,true
+1992,Backdraft,"Action,Crime,Drama",140163453,14,Best Visual Effects,false
+1992,Hook,"Adventure,Comedy,Family",215378681,6,Best Visual Effects,false
+1992,The Silence of the Lambs,"Crime,Drama,Thriller",235337259,4,Best Picture,true
+1992,Bugsy,"Biography,Crime,Drama",88405228,24,Best Picture,false
+1992,JFK,"Drama,History,Thriller",126729896,17,Best Picture,false
+1992,Beauty and the Beast,"Animation,Family,Fantasy",394141716,1,Best Picture,false
+1992,The Prince of Tides,"Drama,Romance",134617678,16,Best Picture,false
+1992,The Silence of the Lambs,"Crime,Drama,Thriller",235337259,4,Best Adapted Screenplay,true
+1992,Fried Green Tomatoes,"Drama",148353301,11,Best Adapted Screenplay,false
+1992,Europa Europa,"Drama,History,War",10036328,117,Best Adapted Screenplay,false
+1992,JFK,"Drama,History,Thriller",126729896,17,Best Adapted Screenplay,false
+1992,The Prince of Tides,"Drama,Romance",134617678,16,Best Adapted Screenplay,false
+1992,Thelma & Louise,"Adventure,Crime,Drama",81649800,27,Best Original Screenplay,true
+1992,Boyz n the Hood,"Crime,Drama",103507324,22,Best Original Screenplay,false
+1992,Bugsy,"Biography,Crime,Drama",88405228,24,Best Original Screenplay,false
+1992,The Fisher King,"Comedy,Drama,Fantasy",75411883,31,Best Original Screenplay,false
+1992,Grand Canyon,"Crime,Drama",59837436,43,Best Original Screenplay,false
+1991,Dances with Wolves,"Adventure,Drama,Western",340786368,3,Best Cinematography,true
+1991,Avalon,"Drama",29120472,75,Best Cinematography,false
+1991,Dick Tracy,"Action,Comedy,Crime",191916643,9,Best Cinematography,false
+1991,Henry & June,"Biography,Drama",21399780,90,Best Cinematography,false
+1991,The Godfather: Part III,"Crime,Drama",123332214,17,Best Cinematography,false
+1991,Danse avec les loups,"Adventure,Drama,Western",340786368,3,Best Directing,true
+1991,Le mystère Von Bulow,"Biography,Drama,Mystery",28573492,78,Best Directing,false
+1991,"Le parrain, 3ème partie","Crime,Drama",123332214,17,Best Directing,false
+1991,Les affranchis,"Crime,Drama",86647328,26,Best Directing,false
+1991,Les arnaqueurs,"Crime,Drama,Thriller",24876522,86,Best Directing,false
+1991,Dances with Wolves,"Adventure,Drama,Western",340786368,3,Best Picture,true
+1991,Ghost,"Drama,Fantasy,Romance",402617916,2,Best Picture,false
+1991,Awakenings,"Biography,Drama",96378478,23,Best Picture,false
+1991,The Godfather: Part III,"Crime,Drama",123332214,17,Best Picture,false
+1991,Goodfellas,"Crime,Drama",86647328,26,Best Picture,false
+1991,Total Recall,"Action,Sci-Fi,Thriller",220880454,7,Best Visual Effects,false
+1991,Dances with Wolves,"Adventure,Drama,Western",340786368,3,Best Adapted Screenplay,true
+1991,Awakenings,"Biography,Drama",96378478,23,Best Adapted Screenplay,false
+1991,Reversal of Fortune,"Biography,Drama,Mystery",28573492,78,Best Adapted Screenplay,false
+1991,Goodfellas,"Crime,Drama",86647328,26,Best Adapted Screenplay,false
+1991,The Grifters,"Crime,Drama,Thriller",24876522,86,Best Adapted Screenplay,false
+1991,Ghost,"Drama,Fantasy,Romance",402617916,2,Best Original Screenplay,true
+1991,Alice,"Comedy,Romance",13563546,107,Best Original Screenplay,false
+1991,Avalon,"Drama",29120472,75,Best Original Screenplay,false
+1991,Green Card,"Comedy,Drama,Romance",55293234,38,Best Original Screenplay,false
+1991,Metropolitan,"Comedy,Drama,Romance",5435684,132,Best Original Screenplay,false
+1990,Glory,"Biography,Drama,History",51781900,43,Best Cinematography,true
+1990,The Abyss,"Adventure,Drama,Sci-Fi",105109820,24,Best Cinematography,false
+1990,Blaze,"Biography,Drama",36923304,53,Best Cinematography,false
+1990,Born on the Fourth of July,"Biography,Drama,War",135103277,17,Best Cinematography,false
+1990,The Fabulous Baker Boys,"Drama,Music,Romance",34933000,58,Best Cinematography,false
+1990,Né un 4 juillet,"Biography,Drama,War",135103277,17,Best Directing,true
+1990,My Left Foot,"Biography,Drama",28454744,65,Best Directing,false
+1990,Henry V,"Action,Biography,Drama",19610921,82,Best Directing,false
+1990,Le cercle des poètes disparus,"Comedy,Drama",185010023,11,Best Directing,false
+1990,Crimes et délits,"Comedy,Drama",35231574,57,Best Directing,false
+1990,The Abyss,"Adventure,Drama,Sci-Fi",105109820,24,Best Visual Effects,true
+1990,The Adventures of Baron Munchausen,"Adventure,Comedy,Fantasy",15600427,102,Best Visual Effects,false
+1990,Back to the Future Part II,"Adventure,Comedy,Sci-Fi",228705000,6,Best Visual Effects,false
+1990,Driving Miss Daisy,"Drama",205725061,9,Best Picture,true
+1990,Field of Dreams,"Drama,Family,Fantasy",124353036,19,Best Picture,false
+1990,Dead Poets Society,"Comedy,Drama",185010023,11,Best Picture,false
+1990,My Left Foot: The Story of Christy Brown,"Biography,Drama",28454744,65,Best Picture,false
+1990,Born on the Fourth of July,"Biography,Drama,War",135103277,17,Best Picture,false
+1990,Driving Miss Daisy,"Drama",205725061,9,Best Adapted Screenplay,true
+1990,Enemies: A Love Story,"Comedy,Drama,Romance",14966322,93,Best Adapted Screenplay,false
+1990,Field of Dreams,"Drama,Family,Fantasy",124353036,19,Best Adapted Screenplay,false
+1990,My Left Foot: The Story of Christy Brown,"Biography,Drama",28454744,65,Best Adapted Screenplay,false
+1990,Born on the Fourth of July,"Biography,Drama,War",135103277,17,Best Adapted Screenplay,false
+1990,Dead Poets Society,"Comedy,Drama",185010023,11,Best Original Screenplay,true
+1990,Crimes and Misdemeanors,"Comedy,Drama",35231574,57,Best Original Screenplay,false
+1990,Do the Right Thing,"Comedy,Drama",53162708,41,Best Original Screenplay,false
+1990,When Harry Met Sally...,"Comedy,Drama,Romance",179149548,12,Best Original Screenplay,false
+1990,"Sex, Lies, and Videotape","Drama",47751481,44,Best Original Screenplay,false
+1989,Mississippi Burning,"Crime,Drama,History",70246004,32,Best Cinematography,true
+1989,The Unbearable Lightness of Being,"Drama,Romance",20313816,89,Best Cinematography,false
+1989,Who Framed Roger Rabbit,"Animation,Adventure,Comedy",317598311,2,Best Cinematography,false
+1989,Rain Man,"Drama",350835633,1,Best Cinematography,false
+1989,Tequila Sunrise,"Crime,Drama,Romance",83823878,26,Best Cinematography,false
+1989,Rain Man,"Drama",350835633,1,Best Directing,true
+1989,Mississippi Burning,"Crime,Drama,History",70246004,32,Best Directing,false
+1989,Un poisson nommé Wanda,"Comedy,Crime",128892235,13,Best Directing,false
+1989,La dernière tentation du Christ,"Drama",15490044,104,Best Directing,false
+1989,Working Girl - Quand les femmes s'en mêlent,"Comedy,Drama,Romance",129919999,12,Best Directing,false
+1989,Who Framed Roger Rabbit,"Animation,Adventure,Comedy",317598311,2,Best Visual Effects,true
+1989,Die Hard,"Action,Thriller",168507969,7,Best Visual Effects,false
+1989,Willow,"Action,Adventure,Drama",116257821,15,Best Visual Effects,false
+1989,Rain Man,"Drama",350835633,1,Best Picture,true
+1989,Dangerous Liaisons,"Drama,Romance",70441000,31,Best Picture,false
+1989,Mississippi Burning,"Crime,Drama,History",70246004,32,Best Picture,false
+1989,The Accidental Tourist,"Drama,Romance",66243148,34,Best Picture,false
+1989,Working Girl,"Comedy,Drama,Romance",129919999,12,Best Picture,false
+1989,Dangerous Liaisons,"Drama,Romance",70441000,31,Best Adapted Screenplay,true
+1989,Gorillas in the Mist: The Story of Dian Fossey,"Biography,Drama",50182572,42,Best Adapted Screenplay,false
+1989,The Unbearable Lightness of Being,"Drama,Romance",20313816,89,Best Adapted Screenplay,false
+1989,Little Dorrit,"Drama,Romance",2081212,175,Best Adapted Screenplay,false
+1989,The Accidental Tourist,"Drama,Romance",66243148,34,Best Adapted Screenplay,false
+1989,Rain Man,"Drama",350835633,1,Best Original Screenplay,true
+1989,Big,"Comedy,Drama,Family",233386611,4,Best Original Screenplay,false
+1989,Bull Durham,"Comedy,Romance,Sport",103304119,18,Best Original Screenplay,false
+1989,A Fish Called Wanda,"Comedy,Crime",128892235,13,Best Original Screenplay,false
+1989,Running on Empty,"Crime,Drama,Music",5755285,149,Best Original Screenplay,false
+1988,The Last Emperor,"Biography,Drama,History",93686409,23,Best Cinematography,true
+1988,Broadcast News,"Comedy,Drama,Romance",109161230,18,Best Cinematography,false
+1988,Empire of the Sun,"Drama,History,War",47368422,50,Best Cinematography,false
+1988,Hope and Glory,"Comedy,Drama,Romance",21344985,84,Best Cinematography,false
+1988,Matewan,"Drama,History",3579162,147,Best Cinematography,false
+1988,Le dernier empereur,"Biography,Drama,History",93686409,23,Best Directing,true
+1988,Liaison fatale,"Drama,Thriller",333655326,2,Best Directing,false
+1988,Hope and Glory: La guerre à sept ans,"Comedy,Drama,Romance",21344985,84,Best Directing,false
+1988,Ma vie de chien,"Drama,Comedy",17775416,89,Best Directing,false
+1988,Éclair de lune,"Comedy,Drama,Romance",171764324,5,Best Directing,false
+1988,Innerspace,"Action,Adventure,Comedy",55153815,44,Best Visual Effects,true
+1988,Predator,"Action,Adventure,Sci-Fi",127236717,12,Best Visual Effects,false
+1988,The Last Emperor,"Biography,Drama,History",93686409,23,Best Picture,true
+1988,Broadcast News,"Comedy,Drama,Romance",109161230,18,Best Picture,false
+1988,Hope and Glory,"Comedy,Drama,Romance",21344985,84,Best Picture,false
+1988,Fatal Attraction,"Drama,Thriller",333655326,2,Best Picture,false
+1988,Moonstruck,"Comedy,Drama,Romance",171764324,5,Best Picture,false
+1988,The Last Emperor,"Biography,Drama,History",93686409,23,Best Adapted Screenplay,true
+1988,Full Metal Jacket,"Drama,War",98741849,21,Best Adapted Screenplay,false
+1988,The Dead,"Drama",9308266,109,Best Adapted Screenplay,false
+1988,Fatal Attraction,"Drama,Thriller",333655326,2,Best Adapted Screenplay,false
+1988,Mitt liv som hund,"Drama,Comedy",17775416,89,Best Adapted Screenplay,false
+1988,Moonstruck,"Comedy,Drama,Romance",171764324,5,Best Original Screenplay,true
+1988,Au revoir les enfants,"Drama,War",9676217,107,Best Original Screenplay,false
+1988,Broadcast News,"Comedy,Drama,Romance",109161230,18,Best Original Screenplay,false
+1988,Hope and Glory,"Comedy,Drama,Romance",21344985,84,Best Original Screenplay,false
+1988,Radio Days,"Comedy",31508619,66,Best Original Screenplay,false
+1987,The Mission,"Adventure,Drama,History",38224011,49,Best Cinematography,true
+1987,A Room with a View,"Drama,Romance",46545949,41,Best Cinematography,false
+1987,Peggy Sue Got Married,"Comedy,Drama,Fantasy",91869907,19,Best Cinematography,false
+1987,Platoon,"Drama,War",307537854,3,Best Cinematography,false
+1987,Star Trek IV: The Voyage Home,"Adventure,Comedy,Sci-Fi",243563153,5,Best Cinematography,false
+1987,Platoon,"Drama,War",307537854,3,Best Directing,true
+1987,Blue Velvet,"Drama,Mystery,Thriller",18983726,73,Best Directing,false
+1987,Chambre avec vue,"Drama,Romance",46545949,41,Best Directing,false
+1987,Mission,"Adventure,Drama,History",38224011,49,Best Directing,false
+1987,Hannah et ses soeurs,"Comedy,Drama",88986571,24,Best Directing,false
+1987,Aliens,"Action,Adventure,Sci-Fi",189055750,7,Best Visual Effects,true
+1987,Little Shop of Horrors,"Comedy,Horror,Musical",86019194,26,Best Visual Effects,false
+1987,Poltergeist II: The Other Side,"Horror",91012596,20,Best Visual Effects,false
+1987,Platoon,"Drama,War",307537854,3,Best Picture,true
+1987,A Room with a View,"Drama,Romance",46545949,41,Best Picture,false
+1987,Hannah and Her Sisters,"Comedy,Drama",88986571,24,Best Picture,false
+1987,Children of a Lesser God,"Drama,Romance",70713837,33,Best Picture,false
+1987,The Mission,"Adventure,Drama,History",38224011,49,Best Picture,false
+1987,A Room with a View,"Drama,Romance",46545949,41,Best Adapted Screenplay,true
+1987,Crimes of the Heart,"Comedy,Drama",50850210,41,Best Adapted Screenplay,false
+1987,The Color of Money,"Drama,Sport",116092640,12,Best Adapted Screenplay,false
+1987,Children of a Lesser God,"Drama,Romance",70713837,33,Best Adapted Screenplay,false
+1987,Stand by Me,"Adventure,Drama",116078059,13,Best Adapted Screenplay,false
+1987,Hannah and Her Sisters,"Comedy,Drama",88986571,24,Best Original Screenplay,true
+1987,Crocodile Dundee,"Adventure,Comedy",387689700,2,Best Original Screenplay,false
+1987,My Beautiful Laundrette,"Comedy,Drama,Romance",5442429,127,Best Original Screenplay,false
+1987,Platoon,"Drama,War",307537854,3,Best Original Screenplay,false
+1987,Salvador,"Drama,History,Thriller",3330000,153,Best Original Screenplay,false
+1986,Out of Africa,"Biography,Drama,Romance",200329999,5,Best Cinematography,true
+1986,The Color Purple,"Drama",226476084,4,Best Cinematography,false
+1986,Murphy's Romance,"Comedy,Drama,Romance",70754028,27,Best Cinematography,false
+1986,Ran,"Action,Drama",8101568,117,Best Cinematography,false
+1986,Witness,"Crime,Drama,Romance",158026083,8,Best Cinematography,false
+1986,Out of Africa - Souvenirs d'Afrique,"Biography,Drama,Romance",200329999,5,Best Directing,true
+1986,Ran,"Action,Drama",8101568,117,Best Directing,false
+1986,Le baiser de la femme-araignée,"Drama",39186774,53,Best Directing,false
+1986,L'honneur des Prizzi,"Comedy,Crime,Drama",61409999,30,Best Directing,false
+1986,Witness: Témoin sous surveillance,"Crime,Drama,Romance",158026083,8,Best Directing,false
+1986,Cocoon,"Comedy,Drama,Sci-Fi",175060185,6,Best Visual Effects,true
+1986,Young Sherlock Holmes,"Adventure,Fantasy,Mystery",45399700,45,Best Visual Effects,false
+1986,Return to Oz,"Adventure,Family,Fantasy",25616942,69,Best Visual Effects,false
+1986,Out of Africa,"Biography,Drama,Romance",200329999,5,Best Picture,true
+1986,Prizzi's Honor,"Comedy,Crime,Drama",61409999,30,Best Picture,false
+1986,The Color Purple,"Drama",226476084,4,Best Picture,false
+1986,Kiss of the Spider Woman,"Drama",39186774,53,Best Picture,false
+1986,Witness,"Crime,Drama,Romance",158026083,8,Best Picture,false
+1986,Out of Africa,"Biography,Drama,Romance",200329999,5,Best Adapted Screenplay,true
+1986,Prizzi's Honor,"Comedy,Crime,Drama",61409999,30,Best Adapted Screenplay,false
+1986,The Color Purple,"Drama",226476084,4,Best Adapted Screenplay,false
+1986,Kiss of the Spider Woman,"Drama",39186774,53,Best Adapted Screenplay,false
+1986,The Trip to Bountiful,"Drama",17173322,95,Best Adapted Screenplay,false
+1986,Witness,"Crime,Drama,Romance",158026083,8,Best Original Screenplay,true
+1986,Brazil,"Drama,Sci-Fi",22837010,80,Best Original Screenplay,false
+1986,La historia oficial,"Drama,History,War",67679,183,Best Original Screenplay,false
+1986,The Purple Rose of Cairo,"Comedy,Fantasy,Romance",24452065,73,Best Original Screenplay,false
+1986,Back to the Future,"Adventure,Comedy,Sci-Fi",484402452,1,Best Original Screenplay,false
+1985,The Killing Fields,"Biography,Drama,History",81198680,26,Best Cinematography,true
+1985,Amadeus,"Biography,Drama,History",121616887,12,Best Cinematography,false
+1985,The River,"Drama",26886557,70,Best Cinematography,false
+1985,A Passage to India,"Adventure,Drama,History",63619108,34,Best Cinematography,false
+1985,The Natural,"Drama,Sport",112207630,14,Best Cinematography,false
+1985,Amadeus,"Biography,Drama,History",121616887,12,Best Directing,true
+1985,La route des Indes,"Adventure,Drama,History",63619108,34,Best Directing,false
+1985,Les saisons du coeur,"Drama",81669776,25,Best Directing,false
+1985,La déchirure,"Biography,Drama,History",81198680,26,Best Directing,false
+1985,Broadway Danny Rose,"Comedy",24805162,73,Best Directing,false
+1985,Indiana Jones and the Temple of Doom,"Action,Adventure",420896434,3,Best Visual Effects,true
+1985,2010: The Year We Make Contact,"Adventure,Mystery,Sci-Fi",94068000,17,Best Visual Effects,false
+1985,Ghost Busters,"Action,Comedy,Fantasy",558399170,1,Best Visual Effects,false
+1985,Amadeus,"Biography,Drama,History",121616887,12,Best Picture,true
+1985,The Killing Fields,"Biography,Drama,History",81198680,26,Best Picture,false
+1985,A Passage to India,"Adventure,Drama,History",63619108,34,Best Picture,false
+1985,Places in the Heart,"Drama",81669776,25,Best Picture,false
+1985,A Soldier's Story,"Crime,Drama,Mystery",51061951,46,Best Picture,false
+1985,Amadeus,"Biography,Drama,History",121616887,12,Best Adapted Screenplay,true
+1985,"Greystoke: The Legend of Tarzan, Lord of the Apes","Adventure,Drama",107406000,15,Best Adapted Screenplay,false
+1985,The Killing Fields,"Biography,Drama,History",81198680,26,Best Adapted Screenplay,false
+1985,A Passage to India,"Adventure,Drama,History",63619108,34,Best Adapted Screenplay,false
+1985,A Soldier's Story,"Crime,Drama,Mystery",51061951,46,Best Adapted Screenplay,false
+1985,Places in the Heart,"Drama",81669776,25,Best Original Screenplay,true
+1985,Broadway Danny Rose,"Comedy",24805162,73,Best Original Screenplay,false
+1985,Beverly Hills Cop,"Action,Comedy,Crime",549339518,2,Best Original Screenplay,false
+1985,Splash,"Comedy,Fantasy,Romance",145314000,11,Best Original Screenplay,false
+1984,Fanny och Alexander,"Drama",12080356,89,Best Cinematography,true
+1984,Flashdance,"Drama,Music,Romance",230607000,3,Best Cinematography,false
+1984,The Right Stuff,"Adventure,Biography,Drama",52245000,31,Best Cinematography,false
+1984,WarGames,"Sci-Fi,Thriller",193350240,5,Best Cinematography,false
+1984,Zelig,"Comedy",28670636,53,Best Cinematography,false
+1984,Tendres passions,"Comedy,Drama",263469078,2,Best Directing,true
+1984,Tendre bonheur,"Drama,Music",20516791,66,Best Directing,false
+1984,Fanny et Alexandre,"Drama",12080356,89,Best Directing,false
+1984,Le mystère Silkwood,"Biography,Drama,History",86545929,19,Best Directing,false
+1984,L'habilleur,"Drama",12905117,84,Best Directing,false
+1984,Terms of Endearment,"Comedy,Drama",263469078,2,Best Picture,true
+1984,The Dresser,"Drama",12905117,84,Best Picture,false
+1984,The Right Stuff,"Adventure,Biography,Drama",52245000,31,Best Picture,false
+1984,The Big Chill,"Comedy,Drama",136566000,13,Best Picture,false
+1984,Tender Mercies,"Drama,Music",20516791,66,Best Picture,false
+1984,Star Wars: Episode VI - Return of the Jedi,"Action,Adventure,Fantasy",751174743,1,Best Visual Effects,true
+1984,Terms of Endearment,"Comedy,Drama",263469078,2,Best Adapted Screenplay,true
+1984,The Dresser,"Drama",12905117,84,Best Adapted Screenplay,false
+1984,Educating Rita,"Comedy,Drama",35594824,46,Best Adapted Screenplay,false
+1984,Tender Mercies,"Drama,Music",20516791,66,Best Original Screenplay,true
+1984,Fanny och Alexander,"Drama",12080356,89,Best Original Screenplay,false
+1984,Silkwood,"Biography,Drama,History",86545929,19,Best Original Screenplay,false
+1984,The Big Chill,"Comedy,Drama",136566000,13,Best Original Screenplay,false
+1984,WarGames,"Sci-Fi,Thriller",193350240,5,Best Original Screenplay,false
+1983,Gandhi,"Biography,Drama,History",133502759,11,Best Cinematography,true
+1983,E.T. the Extra-Terrestrial,"Family,Sci-Fi",1100829701,1,Best Cinematography,false
+1983,Das Boot,"Adventure,Drama,Thriller",29063820,64,Best Cinematography,false
+1983,Sophie's Choice,"Drama,Romance",75991080,22,Best Cinematography,false
+1983,Tootsie,"Comedy,Drama,Romance",448315999,2,Best Cinematography,false
+1983,Gandhi,"Biography,Drama,History",133502759,11,Best Directing,true
+1983,Le verdict,"Drama",136620000,10,Best Directing,false
+1983,"E.T., l'extra-terrestre","Family,Sci-Fi",1100829701,1,Best Directing,false
+1983,Tootsie,"Comedy,Drama,Romance",448315999,2,Best Directing,false
+1983,Le bateau,"Adventure,Drama,Thriller",29063820,64,Best Directing,false
+1983,E.T. the Extra-Terrestrial,"Family,Sci-Fi",1100829701,1,Best Visual Effects,true
+1983,Blade Runner,"Sci-Fi,Thriller",68310000,26,Best Visual Effects,false
+1983,Poltergeist,"Horror,Thriller",193813888,7,Best Visual Effects,false
+1983,Gandhi,"Biography,Drama,History",133502759,11,Best Picture,true
+1983,E.T. the Extra-Terrestrial,"Family,Sci-Fi",1100829701,1,Best Picture,false
+1983,The Verdict,"Drama",136620000,10,Best Picture,false
+1983,Missing,"Biography,Drama,History",35420000,46,Best Picture,false
+1983,Tootsie,"Comedy,Drama,Romance",448315999,2,Best Picture,false
+1983,Missing,"Biography,Drama,History",35420000,46,Best Adapted Screenplay,true
+1983,Das Boot,"Adventure,Drama,Thriller",29063820,64,Best Adapted Screenplay,false
+1983,Sophie's Choice,"Drama,Romance",75991080,22,Best Adapted Screenplay,false
+1983,The Verdict,"Drama",136620000,10,Best Adapted Screenplay,false
+1983,Victor Victoria,"Comedy,Music,Musical",55492043,30,Best Adapted Screenplay,false
+1983,Gandhi,"Biography,Drama,History",133502759,11,Best Original Screenplay,true
+1983,Diner,"Comedy,Drama",35673000,44,Best Original Screenplay,false
+1983,E.T. the Extra-Terrestrial,"Family,Sci-Fi",1100829701,1,Best Original Screenplay,false
+1983,An Officer and a Gentleman,"Drama,Romance",328382746,3,Best Original Screenplay,false
+1983,Tootsie,"Comedy,Drama,Romance",448315999,2,Best Original Screenplay,false
+1982,Reds,"Biography,Drama,History",105398739,14,Best Cinematography,true
+1982,Excalibur,"Adventure,Drama,Fantasy",91265010,18,Best Cinematography,false
+1982,On Golden Pond,"Drama",311334977,2,Best Cinematography,false
+1982,Raiders of the Lost Ark,"Action,Adventure",647697524,1,Best Cinematography,false
+1982,Ragtime,"Drama",54851003,37,Best Cinematography,false
+1982,Reds,"Biography,Drama,History",105398739,14,Best Directing,true
+1982,Les chariots de feu,"Biography,Drama,Sport",153919279,9,Best Directing,false
+1982,Atlantic City,"Crime,Drama,Romance",33224459,48,Best Directing,false
+1982,La maison du lac,"Drama",311334977,2,Best Directing,false
+1982,Les aventuriers de l'arche perdue,"Action,Adventure",647697524,1,Best Directing,false
+1982,Raiders of the Lost Ark,"Action,Adventure",647697524,1,Best Visual Effects,true
+1982,Dragonslayer,"Action,Adventure,Fantasy",36827133,56,Best Visual Effects,false
+1982,Chariots of Fire,"Biography,Drama,Sport",153919279,9,Best Picture,true
+1982,"Atlantic City, USA","Crime,Drama,Romance",33224459,48,Best Picture,false
+1982,On Golden Pond,"Drama",311334977,2,Best Picture,false
+1982,Raiders of the Lost Ark,"Action,Adventure",647697524,1,Best Picture,false
+1982,Reds,"Biography,Drama,History",105398739,14,Best Picture,false
+1982,On Golden Pond,"Drama",311334977,2,Best Adapted Screenplay,true
+1982,The French Lieutenant's Woman,"Drama,Romance",58986000,35,Best Adapted Screenplay,false
+1982,Prince of the City,"Crime,Drama",21204310,74,Best Adapted Screenplay,false
+1982,Ragtime,"Drama",54851003,37,Best Adapted Screenplay,false
+1982,Pennies from Heaven,"Drama,Musical,Romance",23957944,71,Best Adapted Screenplay,false
+1982,Chariots of Fire,"Biography,Drama,Sport",153919279,9,Best Original Screenplay,true
+1982,Absence of Malice,"Drama,Romance,Thriller",106271273,13,Best Original Screenplay,false
+1982,Arthur,"Comedy,Romance",249154990,4,Best Original Screenplay,false
+1982,"Atlantic City, USA","Crime,Drama,Romance",33224459,48,Best Original Screenplay,false
+1982,Reds,"Biography,Drama,History",105398739,14,Best Original Screenplay,false
+1981,Tess,"Drama,Romance",55658524,33,Best Cinematography,true
+1981,The Formula,"Crime,Thriller",24637180,55,Best Cinematography,false
+1981,The Blue Lagoon,"Adventure,Drama,Romance",163023103,10,Best Cinematography,false
+1981,Coal Miner's Daughter,"Biography,Drama,Music",186096319,8,Best Cinematography,false
+1981,Raging Bull,"Biography,Drama,Sport",64773643,26,Best Cinematography,false
+1981,Des gens comme les autres,"Drama",151796000,12,Best Directing,true
+1981,Elephant Man,"Biography,Drama",72050093,24,Best Directing,false
+1981,Raging Bull,"Biography,Drama,Sport",64773643,26,Best Directing,false
+1981,Le diable en boîte,"Action,Comedy,Drama",19566964,59,Best Directing,false
+1981,Tess,"Drama,Romance",55658524,33,Best Directing,false
+1981,Ordinary People,"Drama",151796000,12,Best Picture,true
+1981,The Elephant Man,"Biography,Drama",72050093,24,Best Picture,false
+1981,Coal Miner's Daughter,"Biography,Drama,Music",186096319,8,Best Picture,false
+1981,Raging Bull,"Biography,Drama,Sport",64773643,26,Best Picture,false
+1981,Tess,"Drama,Romance",55658524,33,Best Picture,false
+1981,Star Wars: Episode V - The Empire Strikes Back,"Action,Adventure,Fantasy",804615935,1,Best Visual Effects,true
+1981,Ordinary People,"Drama",151796000,12,Best Adapted Screenplay,true
+1981,The Elephant Man,"Biography,Drama",72050093,24,Best Adapted Screenplay,false
+1981,'Breaker' Morant,"Drama,History,War",19785713,58,Best Adapted Screenplay,false
+1981,The Stunt Man,"Action,Comedy,Drama",19566964,59,Best Adapted Screenplay,false
+1981,Coal Miner's Daughter,"Biography,Drama,Music",186096319,8,Best Adapted Screenplay,false
+1981,Melvin and Howard,"Comedy,Drama",11937287,70,Best Original Screenplay,true
+1981,Brubaker,"Crime,Drama",102827131,20,Best Original Screenplay,false
+1981,Fame,"Drama,Music,Musical",58,88,Best Original Screenplay,false
+1981,Private Benjamin,"Comedy,War",193477153,7,Best Original Screenplay,false
+1980,Apocalypse Now,"Drama,War",255422823,3,Best Cinematography,true
+1980,1941,"Action,Comedy,War",97172570,20,Best Cinematography,false
+1980,Kramer vs. Kramer,"Drama",325155600,1,Best Cinematography,false
+1980,The Black Hole,"Action,Sci-Fi",109676217,19,Best Cinematography,false
+1980,All That Jazz,"Comedy,Drama,Music",115740448,19,Best Cinematography,false
+1980,Kramer contre Kramer,"Drama",325155600,1,Best Directing,true
+1980,Que le spectacle commence,"Comedy,Drama,Music",115740448,19,Best Directing,false
+1980,Apocalypse Now,"Drama,War",255422823,3,Best Directing,false
+1980,La bande des quatre,"Comedy,Drama,Romance",50260249,36,Best Directing,false
+1980,La cage aux folles,"Comedy",62498232,19,Best Directing,false
+1980,Alien,"Horror,Sci-Fi",241434000,5,Best Visual Effects,true
+1980,1941,"Action,Comedy,War",97172570,20,Best Visual Effects,false
+1980,The Black Hole,"Action,Sci-Fi",109676217,19,Best Visual Effects,false
+1980,Moonraker,"Action,Adventure,Sci-Fi",215142782,9,Best Visual Effects,false
+1980,Star Trek: The Motion Picture,"Adventure,Mystery,Sci-Fi",251710875,4,Best Visual Effects,false
+1980,Superman,"Action,Adventure,Drama",410707135,2,Best Visual Effects,true
+1980,Kramer vs. Kramer,"Drama",325155600,1,Best Picture,true
+1980,Apocalypse Now,"Drama,War",255422823,3,Best Picture,false
+1980,Breaking Away,"Comedy,Drama,Romance",50260249,36,Best Picture,false
+1980,Norma Rae,"Drama",68017680,28,Best Picture,false
+1980,All That Jazz,"Comedy,Drama,Music",115740448,19,Best Picture,false
+1980,Kramer vs. Kramer,"Drama",325155600,1,Best Adapted Screenplay,true
+1980,Apocalypse Now,"Drama,War",255422823,3,Best Adapted Screenplay,false
+1980,La cage aux folles,"Comedy",62498232,19,Best Adapted Screenplay,false
+1980,Norma Rae,"Drama",68017680,28,Best Adapted Screenplay,false
+1980,Breaking Away,"Comedy,Drama,Romance",50260249,36,Best Original Screenplay,true
+1980,...and justice for all.,"Crime,Drama,Thriller",101898000,19,Best Original Screenplay,false
+1980,The China Syndrome,"Drama,Thriller",158258203,11,Best Original Screenplay,false
+1980,Manhattan,"Comedy,Drama,Romance",139842000,12,Best Original Screenplay,false
+1980,All That Jazz,"Comedy,Drama,Music",115740448,19,Best Original Screenplay,false
+1979,Days of Heaven,"Drama,Romance",11960219,46,Best Cinematography,true
+1979,Heaven Can Wait,"Comedy,Fantasy,Romance",283291764,5,Best Cinematography,false
+1979,"Same Time, Next Year","Comedy,Drama,Romance",68369694,23,Best Cinematography,false
+1979,The Wiz,"Adventure,Family,Fantasy",73040213,17,Best Cinematography,false
+1979,The Deer Hunter,"Drama,War",169958268,7,Best Cinematography,false
+1979,Voyage au bout de l'enfer,"Drama,War",169958268,7,Best Directing,true
+1979,Midnight Express,"Biography,Crime,Drama",121450000,12,Best Directing,false
+1979,Le retour,"Drama,Romance,War",113309050,13,Best Directing,false
+1979,Le ciel peut attendre,"Comedy,Fantasy,Romance",283291764,5,Best Directing,false
+1979,Intérieurs,"Drama",36200657,33,Best Directing,false
+1979,The Deer Hunter,"Drama,War",169958268,7,Best Picture,true
+1979,An Unmarried Woman,"Comedy,Drama,Romance",83280000,16,Best Picture,false
+1979,Heaven Can Wait,"Comedy,Fantasy,Romance",283291764,5,Best Picture,false
+1979,Coming Home,"Drama,Romance,War",113309050,13,Best Picture,false
+1979,Midnight Express,"Biography,Crime,Drama",121450000,12,Best Picture,false
+1979,Midnight Express,"Biography,Crime,Drama",121450000,12,Best Adapted Screenplay,true
+1979,California Suite,"Comedy,Drama,Romance",100630000,13,Best Adapted Screenplay,false
+1979,Heaven Can Wait,"Comedy,Fantasy,Romance",283291764,5,Best Adapted Screenplay,false
+1979,"Same Time, Next Year","Comedy,Drama,Romance",68369694,23,Best Adapted Screenplay,false
+1979,Coming Home,"Drama,Romance,War",113309050,13,Best Original Screenplay,true
+1979,Interiors,"Drama",36200657,33,Best Original Screenplay,false
+1979,An Unmarried Woman,"Comedy,Drama,Romance",83280000,16,Best Original Screenplay,false
+1979,Höstsonaten,"Drama,Music",3463243,49,Best Original Screenplay,false
+1979,The Deer Hunter,"Drama,War",169958268,7,Best Original Screenplay,false
+1978,Close Encounters of the Third Kind,"Drama,Sci-Fi",511183017,2,Best Cinematography,true
+1978,Julia,"Drama",80164728,21,Best Cinematography,false
+1978,Islands in the Stream,"Drama",30960000,32,Best Cinematography,false
+1978,The Turning Point,"Drama,Romance",130032000,14,Best Cinematography,false
+1978,Looking for Mr. Goodbar,"Drama,Romance",65403000,25,Best Cinematography,false
+1978,Annie Hall,"Comedy,Romance",151704000,11,Best Directing,true
+1978,Julia,"Drama",80164728,21,Best Directing,false
+1978,La guerre des étoiles,"Action,Adventure,Fantasy",1249004341,1,Best Directing,false
+1978,Le tournant de la vie,"Drama,Romance",130032000,14,Best Directing,false
+1978,Rencontres du troisième type,"Drama,Sci-Fi",511183017,2,Best Directing,false
+1978,Star Wars,"Action,Adventure,Fantasy",1249004341,1,Best Visual Effects,true
+1978,Close Encounters of the Third Kind,"Drama,Sci-Fi",511183017,2,Best Visual Effects,false
+1978,Annie Hall,"Comedy,Romance",151704000,11,Best Picture,true
+1978,The Goodbye Girl,"Comedy,Drama,Romance",394740000,4,Best Picture,false
+1978,Julia,"Drama",80164728,21,Best Picture,false
+1978,Star Wars,"Action,Adventure,Fantasy",1249004341,1,Best Picture,false
+1978,The Turning Point,"Drama,Romance",130032000,14,Best Picture,false
+1978,Julia,"Drama",80164728,21,Best Adapted Screenplay,true
+1978,Cet obscur objet du désir,"Comedy,Drama",213860,41,Best Adapted Screenplay,false
+1978,"Oh, God!","Comedy,Fantasy",161329630,9,Best Adapted Screenplay,false
+1978,Annie Hall,"Comedy,Romance",151704000,11,Best Original Screenplay,true
+1978,The Goodbye Girl,"Comedy,Drama,Romance",394740000,4,Best Original Screenplay,false
+1978,Star Wars,"Action,Adventure,Fantasy",1249004341,1,Best Original Screenplay,false
+1978,The Turning Point,"Drama,Romance",130032000,14,Best Original Screenplay,false
+1977,King Kong,"Adventure,Horror",218876091,4,Best Cinematography,false
+1977,Logan's Run,"Action,Sci-Fi",104000000,13,Best Cinematography,false
+1977,A Star Is Born,"Drama,Music,Romance",332800000,2,Best Cinematography,false
+1977,Rocky,"Drama,Sport",487698627,1,Best Directing,true
+1977,Les hommes du président,"Biography,Drama,History",293696000,3,Best Directing,false
+1977,Pasqualino,"Comedy,Drama,War",49761,40,Best Directing,false
+1977,Rocky,"Drama,Sport",487698627,1,Best Picture,true
+1977,All the President's Men,"Biography,Drama,History",293696000,3,Best Picture,false
+1977,Taxi Driver,"Crime,Drama",117572307,11,Best Picture,false
+1977,Kong Kong,"Adventure,Horror",218876091,4,Best Visual Effects,true
+1977,Logan's Run,"Action,Sci-Fi",104000000,13,Best Visual Effects,true
+1977,All the President's Men,"Biography,Drama,History",293696000,3,Best Adapted Screenplay,true
+1977,Cousin cousine,"Comedy,Romance",36192000,23,Best Original Screenplay,false
+1977,Pasqualino Settebellezze,"Comedy,Drama,War",49761,40,Best Original Screenplay,false
+1977,Rocky,"Drama,Sport",487698627,1,Best Original Screenplay,false
+1976,Barry Lyndon,"Adventure,Drama,History",88600000,16,Best Cinematography,true
+1976,Funny Lady,"Biography,Comedy,Drama",177447623,8,Best Cinematography,false
+1976,The Hindenburg,"Adventure,Drama,History",123797346,15,Best Cinematography,false
+1976,The Day of the Locust,"Drama,Thriller",78822990,18,Best Cinematography,false
+1976,One Flew Over the Cuckoo's Nest,"Drama",496159999,3,Best Cinematography,false
+1976,Vol au-dessus d'un nid de coucou,"Drama",496159999,3,Best Directing,true
+1976,Nashville,"Comedy,Drama,Music",44229664,22,Best Directing,false
+1976,Un après-midi de chien,"Biography,Crime,Drama",221500000,4,Best Directing,false
+1976,Barry Lyndon,"Adventure,Drama,History",88600000,16,Best Directing,false
+1976,One Flew Over the Cuckoo's Nest,"Drama",496159999,3,Best Picture,true
+1976,Barry Lyndon,"Adventure,Drama,History",88600000,16,Best Picture,false
+1976,Jaws,"Adventure,Drama,Thriller",1151800000,1,Best Picture,false
+1976,Nashville,"Comedy,Drama,Music",44229664,22,Best Picture,false
+1976,Dog Day Afternoon,"Biography,Crime,Drama",221500000,4,Best Picture,false
+1976,The Hindenburg,"Adventure,Drama,History",123797346,15,Best Visual Effects,true
+1976,Dog Day Afternoon,"Biography,Crime,Drama",221500000,4,Best Original Screenplay,true
+1976,Shampoo,"Comedy,Drama",218876261,5,Best Original Screenplay,false
+1976,One Flew Over the Cuckoo's Nest,"Drama",496159999,3,Best Adapted Screenplay,true
+1976,Barry Lyndon,"Adventure,Drama,History",88600000,16,Best Adapted Screenplay,false
+1976,The Man Who Would Be King,"Adventure",58475999,19,Best Adapted Screenplay,false
+1975,The Towering Inferno,"Action,Drama,Thriller",542880000,2,Best Cinematography,true
+1975,Chinatown,"Drama,Mystery,Thriller",136656000,13,Best Cinematography,false
+1975,Murder on the Orient Express,"Crime,Drama,Mystery",167234497,11,Best Cinematography,false
+1975,Earthquake,"Action,Drama,Thriller",372996000,5,Best Cinematography,false
+1975,"Le parrain, 2ème partie","Crime,Drama",268163999,6,Best Directing,true
+1975,La nuit américaine,"Comedy,Drama,Romance",83341,31,Best Directing,false
+1975,Chinatown,"Drama,Mystery,Thriller",136656000,13,Best Directing,false
+1975,The Godfather: Part II,"Crime,Drama",268163999,6,Best Picture,true
+1975,Chinatown,"Drama,Mystery,Thriller",136656000,13,Best Picture,false
+1975,The Conversation,"Drama,Mystery,Thriller",20685600,24,Best Picture,false
+1975,The Towering Inferno,"Action,Drama,Thriller",542880000,2,Best Picture,false
+1975,Earthquake,"Action,Drama,Thriller",372996000,5,Best Visual Effects,true
+1975,Chinatown,"Drama,Mystery,Thriller",136656000,13,Best Original Screenplay,true
+1975,Alice Doesn't Live Here Anymore,"Drama,Romance",82368000,19,Best Original Screenplay,false
+1975,The Conversation,"Drama,Mystery,Thriller",20685600,24,Best Original Screenplay,false
+1975,La nuit américaine,"Comedy,Drama,Romance",83341,31,Best Original Screenplay,false
+1975,The Godfather: Part II,"Crime,Drama",268163999,6,Best Adapted Screenplay,true
+1975,Young Frankenstein,"Comedy",403884000,4,Best Adapted Screenplay,false
+1975,Murder on the Orient Express,"Crime,Drama,Mystery",167234497,11,Best Adapted Screenplay,false
+1974,Jonathan Livingston Seagull,"Drama,Family",8176000,23,Best Cinematography,false
+1974,The Sting,"Comedy,Crime,Drama",815556000,2,Best Cinematography,false
+1974,The Exorcist,"Horror",1190150400,1,Best Cinematography,false
+1974,The Way We Were,"Drama,Romance",255090535,4,Best Cinematography,false
+1974,L'arnaque,"Comedy,Crime,Drama",815556000,2,Best Directing,true
+1974,Le dernier Tango à Paris,"Drama,Romance",184700050,6,Best Directing,false
+1974,American Graffiti,"Comedy,Drama",587650000,3,Best Directing,false
+1974,L'exorciste,"Horror",1190150400,1,Best Directing,false
+1974,The Sting,"Comedy,Crime,Drama",815556000,2,Best Picture,true
+1974,American Graffiti,"Comedy,Drama",587650000,3,Best Picture,false
+1974,The Exorcist,"Horror",1190150400,1,Best Picture,false
+1974,A Touch of Class,"Comedy,Romance",93574320,12,Best Picture,false
+1974,The Exorcist,"Horror",1190150400,1,Best Adapted Screenplay,true
+1974,Paper Moon,"Comedy,Drama",158071426,7,Best Adapted Screenplay,false
+1974,The Last Detail,"Comedy,Drama",51100000,15,Best Adapted Screenplay,false
+1974,Serpico,"Biography,Crime,Drama",152278000,8,Best Adapted Screenplay,false
+1974,The Sting,"Comedy,Crime,Drama",815556000,2,Best Original Screenplay,true
+1974,American Graffiti,"Comedy,Drama",587650000,3,Best Original Screenplay,false
+1974,A Touch of Class,"Comedy,Romance",93574320,12,Best Original Screenplay,false
+1973,Cabaret,"Drama,Musical",242905200,4,Best Cinematography,true
+1973,1776,"Drama,Family,History",34670720,14,Best Cinematography,false
+1973,The Poseidon Adventure,"Action,Adventure,Drama",480318510,2,Best Cinematography,false
+1973,Cabaret,"Drama,Musical",242905200,4,Best Directing,true
+1973,Le parrain,"Crime,Drama",766609214,1,Best Directing,false
+1973,Délivrance,"Adventure,Drama,Thriller",261974976,3,Best Directing,false
+1973,The Godfather,"Crime,Drama",766609214,1,Best Picture,true
+1973,Cabaret,"Drama,Musical",242905200,4,Best Picture,false
+1973,Deliverance,"Adventure,Drama,Thriller",261974976,3,Best Picture,false
+1973,The Godfather,"Crime,Drama",766609214,1,Best Adapted Screenplay,true
+1973,Cabaret,"Drama,Musical",242905200,4,Best Adapted Screenplay,false
+1973,Lady Sings the Blues,"Biography,Drama,Music",54528000,11,Best Original Screenplay,false
+1973,Le charme discret de la bourgeoisie,"Comedy",1129235,19,Best Original Screenplay,false
+1973,Le souffle au coeur,"Comedy,Drama",6593253,19,Best Original Screenplay,false
+1973,The Poseidon Adventure,"Action,Adventure,Drama",480318510,2,Best Visual Effects,true
+1972,Fiddler on the Roof,"Drama,Family,Musical",485415000,2,Best Cinematography,true
+1972,The French Connection,"Action,Crime,Drama",311751000,2,Best Cinematography,false
+1972,The Last Picture Show,"Drama",175671990,4,Best Cinematography,false
+1972,Summer of '42,"Comedy,Drama,Romance",269480700,2,Best Cinematography,false
+1972,French Connection,"Action,Crime,Drama",311751000,2,Best Directing,true
+1972,Un violon sur le toit,"Drama,Family,Musical",485415000,2,Best Directing,false
+1972,La dernière séance,"Drama",175671990,4,Best Directing,false
+1972,Orange mécanique,"Crime,Drama,Sci-Fi",160333810,5,Best Directing,false
+1972,Bedknobs and Broomsticks,"Animation,Adventure,Comedy",111735900,8,Best Visual Effects,true
+1972,The French Connection,"Action,Crime,Drama",311751000,2,Best Picture,true
+1972,The Last Picture Show,"Drama",175671990,4,Best Picture,false
+1972,A Clockwork Orange,"Crime,Drama,Sci-Fi",160333810,5,Best Picture,false
+1972,Fiddler on the Roof,"Drama,Family,Musical",485415000,2,Best Picture,false
+1972,The French Connection,"Action,Crime,Drama",311751000,2,Best Adapted Screenplay,true
+1972,The Last Picture Show,"Drama",175671990,4,Best Adapted Screenplay,false
+1972,Il giardino dei Finzi Contini,"Drama,History,War",3598064,27,Best Adapted Screenplay,false
+1972,A Clockwork Orange,"Crime,Drama,Sci-Fi",160333810,5,Best Adapted Screenplay,false
+1972,The Hospital,"Comedy,Drama,Mystery",118860706,6,Best Original Screenplay,true
+1972,Klute,"Crime,Mystery,Thriller",75451201,9,Best Original Screenplay,false
+1972,Summer of '42,"Comedy,Drama,Romance",269480700,2,Best Original Screenplay,false
+1971,Ryan's Daughter,"Drama,Romance",191864023,7,Best Cinematography,true
+1971,Airport,"Action,Drama,Thriller",625042513,2,Best Cinematography,false
+1971,Patton,"Biography,Drama,War",383774000,4,Best Cinematography,false
+1971,Tora! Tora! Tora!,"Action,Drama,History",183790370,8,Best Cinematography,false
+1971,Patton,"Biography,Drama,War",383774000,4,Best Directing,true
+1971,Love Story,"Drama,Romance",661808000,1,Best Directing,false
+1971,M.A.S.H.,"Comedy,Drama,War",507552000,3,Best Directing,false
+1971,Tora! Tora! Tora!,"Action,Drama,History",183790370,8,Best Visual Effects,true
+1971,Patton,"Biography,Drama,War",383774000,4,Best Visual Effects,false
+1971,Patton,"Biography,Drama,War",383774000,4,Best Picture,true
+1971,Airport,"Action,Drama,Thriller",625042513,2,Best Picture,false
+1971,Five Easy Pieces,"Drama",112576346,13,Best Picture,false
+1971,Love Story,"Drama,Romance",661808000,1,Best Picture,false
+1971,MASH,"Comedy,Drama,War",507552000,3,Best Picture,false
+1971,MASH,"Comedy,Drama,War",507552000,3,Best Adapted Screenplay,true
+1971,Airport,"Action,Drama,Thriller",625042513,2,Best Adapted Screenplay,false
+1971,Patton,"Biography,Drama,War",383774000,4,Best Original Screenplay,true
+1971,Five Easy Pieces,"Drama",112576346,13,Best Original Screenplay,false
+1971,Joe,"Drama,Thriller",120165759,11,Best Original Screenplay,false
+1971,Love Story,"Drama,Romance",661808000,1,Best Original Screenplay,false
+1970,Butch Cassidy and the Sundance Kid,"Biography,Crime,Drama",665007778,1,Best Cinematography,true
+1970,Bob & Carol & Ted & Alice,"Comedy,Drama,Romance",207332144,5,Best Cinematography,false
+1970,"Hello, Dolly!","Adventure,Comedy,Musical",215384000,4,Best Cinematography,false
+1970,Marooned,"Adventure,Drama,Sci-Fi",28275000,17,Best Cinematography,false
+1970,Macadam cowboy,"Drama",291102844,2,Best Directing,true
+1970,Alice's Restaurant,"Comedy,Drama,Music",40950000,16,Best Directing,false
+1970,Z,"Crime,Drama,History",541482,23,Best Directing,false
+1970,Butch Cassidy et le Kid,"Biography,Crime,Drama",665007778,1,Best Directing,false
+1970,Marooned,"Adventure,Drama,Sci-Fi",28275000,17,Best Visual Effects,true
+1970,Midnight Cowboy,"Drama",291102844,2,Best Picture,true
+1970,Butch Cassidy and the Sundance Kid,"Biography,Crime,Drama",665007778,1,Best Picture,false
+1970,"Hello, Dolly!","Adventure,Comedy,Musical",215384000,4,Best Picture,false
+1970,Z,"Crime,Drama,History",541482,23,Best Picture,false
+1970,Midnight Cowboy,"Drama",291102844,2,Best Adapted Screenplay,true
+1970,"Goodbye, Columbus","Comedy,Drama,Romance",149108732,9,Best Adapted Screenplay,false
+1970,Z,"Crime,Drama,History",541482,23,Best Adapted Screenplay,false
+1970,Butch Cassidy and the Sundance Kid,"Biography,Crime,Drama",665007778,1,Best Original Screenplay,true
+1970,Bob & Carol & Ted & Alice,"Comedy,Drama,Romance",207332144,5,Best Original Screenplay,false
+1970,Easy Rider,"Adventure,Drama",271235887,3,Best Original Screenplay,false
+1970,The Wild Bunch,"Action,Adventure,Western",4151166,22,Best Original Screenplay,false
+1969,Romeo and Juliet,"Drama,Romance",267251367,4,Best Cinematography,true
+1969,Funny Girl,"Biography,Comedy,Drama",1534112,19,Best Cinematography,false
+1969,Oliver!,"Drama,Family,Musical",115416000,9,Best Cinematography,false
+1969,Star!,"Biography,Comedy,Drama",27480000,14,Best Cinematography,false
+1969,Oliver!,"Drama,Family,Musical",115416000,9,Best Directing,true
+1969,Le lion en hiver,"Biography,Drama,History",153042818,7,Best Directing,false
+1969,Roméo & Juliette,"Drama,Romance",267251367,4,Best Directing,false
+1969,La bataille d'Alger,"Drama,War",384087,20,Best Directing,false
+1969,"2001, l'odyssée de l'espace","Adventure,Sci-Fi",391280795,1,Best Directing,false
+1969,2001: A Space Odyssey,"Adventure,Sci-Fi",391280795,1,Best Visual Effects,true
+1969,Oliver!,"Drama,Family,Musical",115416000,9,Best Picture,true
+1969,Funny Girl,"Biography,Comedy,Drama",1534112,19,Best Picture,false
+1969,The Lion in Winter,"Biography,Drama,History",153042818,7,Best Picture,false
+1969,Romeo and Juliet,"Drama,Romance",267251367,4,Best Picture,false
+1969,The Lion in Winter,"Biography,Drama,History",153042818,7,Best Adapted Screenplay,true
+1969,The Odd Couple,"Comedy",305902097,2,Best Adapted Screenplay,false
+1969,Oliver!,"Drama,Family,Musical",115416000,9,Best Adapted Screenplay,false
+1969,Rosemary's Baby,"Drama,Horror",229426576,4,Best Adapted Screenplay,false
+1969,The Producers,"Comedy,Music",768519,28,Best Original Screenplay,true
+1969,2001: A Space Odyssey,"Adventure,Sci-Fi",391280795,1,Best Original Screenplay,false
+1969,La battaglia di Algeri,"Drama,War",384087,20,Best Original Screenplay,false
+1968,Bonnie and Clyde,"Action,Biography,Crime",367068000,3,Best Cinematography,true
+1968,Camelot,"Adventure,Fantasy,Musical",225182664,9,Best Cinematography,false
+1968,Doctor Dolittle,"Adventure,Comedy,Family",65160000,18,Best Cinematography,false
+1968,The Graduate,"Comedy,Drama,Romance",759804008,2,Best Cinematography,false
+1968,Le lauréat,"Comedy,Drama,Romance",759804008,2,Best Directing,true
+1968,Bonnie et Clyde,"Action,Biography,Crime",367068000,3,Best Directing,false
+1968,Dans la chaleur de la nuit,"Crime,Drama,Mystery",176511040,11,Best Directing,false
+1968,Devine qui vient dîner?,"Comedy,Drama",410508000,3,Best Directing,false
+1968,Doctor Dolittle,"Adventure,Comedy,Family",65160000,18,Best Visual Effects,true
+1968,In the Heat of the Night,"Crime,Drama,Mystery",176511040,11,Best Picture,true
+1968,Bonnie and Clyde,"Action,Biography,Crime",367068000,3,Best Picture,false
+1968,Guess Who's Coming to Dinner,"Comedy,Drama",410508000,3,Best Picture,false
+1968,Doctor Dolittle,"Adventure,Comedy,Family",65160000,18,Best Picture,false
+1968,The Graduate,"Comedy,Drama,Romance",759804008,2,Best Picture,false
+1968,In the Heat of the Night,"Crime,Drama,Mystery",176511040,11,Best Adapted Screenplay,true
+1968,The Graduate,"Comedy,Drama,Romance",759804008,2,Best Adapted Screenplay,false
+1968,Cool Hand Luke,"Crime,Drama",117416676,14,Best Adapted Screenplay,false
+1968,Guess Who's Coming to Dinner,"Comedy,Drama",410508000,3,Best Original Screenplay,true
+1968,Bonnie and Clyde,"Action,Biography,Crime",367068000,3,Best Original Screenplay,false
+1968,Two for the Road,"Comedy,Drama,Romance",86880000,15,Best Original Screenplay,false
+1967,Who's Afraid of Virginia Woolf?,"Drama",211400000,3,Best Cinematography,true
+1967,The Fortune Cookie,"Comedy,Romance",45300000,13,Best Cinematography,false
+1967,A Man for All Seasons,"Biography,Drama,History",214042500,3,Best Cinematography,true
+1967,Hawaii,"Drama",260944776,2,Best Cinematography,false
+1967,The Sand Pebbles,"Adventure,Drama,Romance",226633234,2,Best Cinematography,false
+1967,Fantastic Voyage,"Adventure,Family,Sci-Fi",90600000,10,Best Cinematography,false
+1967,The Professionals,"Action,Adventure,Western",147506962,7,Best Cinematography,false
+1967,Un homme pour l'éternité,"Biography,Drama,History",214042500,3,Best Directing,true
+1967,Blow Up,"Drama,Mystery,Thriller",151000000,6,Best Directing,false
+1967,Qui a peur de Virginia Woolf?,"Drama",211400000,3,Best Directing,false
+1967,Les professionnels,"Action,Adventure,Western",147506962,7,Best Directing,false
+1967,Fantastic Voyage,"Adventure,Family,Sci-Fi",90600000,10,Best Visual Effects,true
+1967,Hawaii,"Drama",260944776,2,Best Visual Effects,false
+1967,A Man for All Seasons,"Biography,Drama,History",214042500,3,Best Picture,true
+1967,Alfie,"Comedy,Drama",142478315,8,Best Picture,false
+1967,The Sand Pebbles,"Adventure,Drama,Romance",226633234,2,Best Picture,false
+1967,The Russians Are Coming the Russians Are Coming,"Comedy,War",163783010,5,Best Picture,false
+1967,Who's Afraid of Virginia Woolf?,"Drama",211400000,3,Best Picture,false
+1967,A Man for All Seasons,"Biography,Drama,History",214042500,3,Best Adapted Screenplay,true
+1967,Alfie,"Comedy,Drama",142478315,8,Best Adapted Screenplay,false
+1967,The Russians Are Coming the Russians Are Coming,"Comedy,War",163783010,5,Best Adapted Screenplay,false
+1967,The Professionals,"Action,Adventure,Western",147506962,7,Best Adapted Screenplay,false
+1967,Who's Afraid of Virginia Woolf?,"Drama",211400000,3,Best Adapted Screenplay,false
+1967,Blowup,"Drama,Mystery,Thriller",151000000,6,Best Original Screenplay,false
+1967,The Fortune Cookie,"Comedy,Romance",45300000,13,Best Original Screenplay,false
+1966,Morituri,"Action,Drama,Thriller",23340000,19,Best Cinematography,false
+1966,In Harm's Way,"Drama,War",32676000,17,Best Cinematography,false
+1966,Doctor Zhivago,"Drama,Romance,War",869197160,2,Best Cinematography,true
+1966,The Agony and the Ecstasy,"Biography,Drama,History",31120000,17,Best Cinematography,false
+1966,The Great Race,"Action,Adventure,Comedy",197093330,6,Best Cinematography,false
+1966,The Sound of Music,"Biography,Drama,Family",1269807145,1,Best Cinematography,false
+1966,The Greatest Story Ever Told,"Biography,Drama,History",120382530,10,Best Cinematography,false
+1966,La mélodie du bonheur,"Biography,Drama,Family",1269807145,1,Best Directing,true
+1966,Le docteur Jivago,"Drama,Romance,War",869197160,2,Best Directing,false
+1966,Darling chérie,"Drama,Romance",93360000,13,Best Directing,false
+1966,Thunderball,"Action,Adventure,Thriller",494808000,3,Best Visual Effects,true
+1966,The Greatest Story Ever Told,"Biography,Drama,History",120382530,10,Best Visual Effects,false
+1966,The Sound of Music,"Biography,Drama,Family",1269807145,1,Best Picture,true
+1966,Darling,"Drama,Romance",93360000,13,Best Picture,false
+1966,Doctor Zhivago,"Drama,Romance,War",869197160,2,Best Picture,false
+1966,Doctor Zhivago,"Drama,Romance,War",869197160,2,Best Adapted Screenplay,true
+1966,Cat Ballou,"Comedy,Romance,Western",160786669,7,Best Adapted Screenplay,false
+1966,Darling,"Drama,Romance",93360000,13,Best Original Screenplay,true
+1966,Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes,"Adventure,Comedy,Family",242044443,4,Best Original Screenplay,false
+1966,The Train,"Thriller,War",57649800,11,Best Original Screenplay,false
+1966,Les parapluies de Cherbourg,"Drama,Musical,Romance",143346,24,Best Original Screenplay,false
+1965,Alexis Zorbas,"Comedy,Drama",72000000,10,Best Cinematography,true
+1965,"Hush...Hush, Sweet Charlotte","Crime,Drama,Mystery",56000000,11,Best Cinematography,false
+1965,The Night of the Iguana,"Drama",96000000,10,Best Cinematography,false
+1965,Fate Is the Hunter,"Drama,Mystery,Thriller",17600000,18,Best Cinematography,false
+1965,My Fair Lady,"Drama,Family,Musical",576000000,2,Best Cinematography,true
+1965,Becket,"Biography,Drama,History",73314960,10,Best Cinematography,false
+1965,The Unsinkable Molly Brown,"Biography,Comedy,Musical",105337600,8,Best Cinematography,false
+1965,Mary Poppins,"Comedy,Family,Fantasy",818181816,1,Best Cinematography,false
+1965,My Fair Lady,"Drama,Family,Musical",576000000,2,Best Directing,true
+1965,Zorba le grec,"Comedy,Drama",72000000,10,Best Directing,false
+1965,Becket,"Biography,Drama,History",73314960,10,Best Directing,false
+1965,Mary Poppins,"Comedy,Family,Fantasy",818181816,1,Best Directing,false
+1965,"Docteur Folamour, ou: Comment j'ai appris à ne plus m'en faire et à aimer la bombe","Comedy",2207216,19,Best Directing,false
+1965,Mary Poppins,"Comedy,Family,Fantasy",818181816,1,Best Visual Effects,true
+1965,My Fair Lady,"Drama,Family,Musical",576000000,2,Best Picture,true
+1965,Becket,"Biography,Drama,History",73314960,10,Best Picture,false
+1965,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Comedy",2207216,19,Best Picture,false
+1965,Mary Poppins,"Comedy,Family,Fantasy",818181816,1,Best Picture,false
+1965,Alexis Zorbas,"Comedy,Drama",72000000,10,Best Picture,false
+1965,Becket,"Biography,Drama,History",73314960,10,Best Adapted Screenplay,true
+1965,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Comedy",2207216,19,Best Adapted Screenplay,false
+1965,Mary Poppins,"Comedy,Family,Fantasy",818181816,1,Best Adapted Screenplay,false
+1965,My Fair Lady,"Drama,Family,Musical",576000000,2,Best Adapted Screenplay,false
+1965,Alexis Zorbas,"Comedy,Drama",72000000,10,Best Adapted Screenplay,false
+1965,Father Goose,"Adventure,Comedy,Romance",100000000,9,Best Original Screenplay,true
+1965,L'homme de Rio,"Action,Adventure,Comedy",281152,23,Best Original Screenplay,false
+1965,A Hard Day's Night,"Comedy,Music,Musical",110240192,6,Best Original Screenplay,false
+1964,Hud,"Drama",81300000,14,Best Cinematography,true
+1964,Cleopatra,"Biography,Drama,History",469733335,1,Best Cinematography,true
+1964,Irma la Douce,"Comedy,Romance",205254760,4,Best Cinematography,false
+1964,How the West Was Won,"Western",378045000,1,Best Cinematography,false
+1964,It's a Mad Mad Mad Mad World,"Action,Adventure,Comedy",376419000,2,Best Cinematography,false
+1964,Tom Jones: de l'alcôve à la potence,"Adventure,Comedy,History",305688000,3,Best Directing,true
+1964,Huit et demi,"Drama",412109,28,Best Directing,false
+1964,Le plus sauvage d'entre tous,"Drama",81300000,14,Best Directing,false
+1964,Cleopatra,"Biography,Drama,History",469733335,1,Best Visual Effects,true
+1964,The Birds,"Drama,Horror,Mystery",92710690,11,Best Visual Effects,false
+1964,Tom Jones,"Adventure,Comedy,History",305688000,3,Best Picture,true
+1964,Cleopatra,"Biography,Drama,History",469733335,1,Best Picture,false
+1964,How the West Was Won,"Western",378045000,1,Best Picture,false
+1964,Tom Jones,"Adventure,Comedy,History",305688000,3,Best Adapted Screenplay,true
+1964,Hud,"Drama",81300000,14,Best Adapted Screenplay,false
+1964,How the West Was Won,"Western",378045000,1,Best Original Screenplay,true
+1964,8½,"Drama",412109,28,Best Original Screenplay,false
+1963,The Longest Day,"Action,Drama,History",322184000,3,Best Cinematography,true
+1963,To Kill a Mockingbird,"Crime,Drama",108189931,10,Best Cinematography,false
+1963,What Ever Happened to Baby Jane?,"Drama,Horror,Thriller",33372000,14,Best Cinematography,false
+1963,Lawrence of Arabia,"Adventure,Biography,Drama",369350946,2,Best Cinematography,true
+1963,Gypsy,"Biography,Comedy,Drama",107185920,11,Best Cinematography,false
+1963,Hatari!,"Action,Adventure,Drama",115360000,9,Best Cinematography,false
+1963,The Wonderful World of the Brothers Grimm,"Animation,Adventure,Biography",116760800,8,Best Cinematography,false
+1963,Mutiny on the Bounty,"Adventure,Drama,History",112723200,10,Best Cinematography,false
+1963,Lawrence d'Arabie,"Adventure,Biography,Drama",369350946,2,Best Directing,true
+1963,Du silence et des ombres...,"Crime,Drama",108189931,10,Best Directing,false
+1963,The Longest Day,"Action,Drama,History",322184000,3,Best Visual Effects,true
+1963,Mutiny on the Bounty,"Adventure,Drama,History",112723200,10,Best Visual Effects,false
+1963,Lawrence of Arabia,"Adventure,Biography,Drama",369350946,2,Best Picture,true
+1963,To Kill a Mockingbird,"Crime,Drama",108189931,10,Best Picture,false
+1963,The Longest Day,"Action,Drama,History",322184000,3,Best Picture,false
+1963,The Music Man,"Comedy,Musical,Romance",123219691,6,Best Picture,false
+1963,Mutiny on the Bounty,"Adventure,Drama,History",112723200,10,Best Picture,false
+1963,To Kill a Mockingbird,"Crime,Drama",108189931,10,Best Adapted Screenplay,true
+1963,Lawrence of Arabia,"Adventure,Biography,Drama",369350946,2,Best Adapted Screenplay,false
+1963,Lolita,"Crime,Drama,Romance",76220000,12,Best Adapted Screenplay,false
+1963,L'année dernière à Marienbad,"Drama,Mystery",1181459,18,Best Original Screenplay,false
+1963,That Touch of Mink,"Comedy,Romance",120542325,7,Best Original Screenplay,false
+1962,Judgment at Nuremberg,"Drama,War",50100000,13,Best Cinematography,false
+1962,The Absent Minded Professor,"Comedy,Family,Sci-Fi",211934748,5,Best Cinematography,false
+1962,"One, Two, Three","Comedy",33400000,13,Best Cinematography,false
+1962,West Side Story,"Crime,Drama,Musical",364534463,2,Best Cinematography,true
+1962,Flower Drum Song,"Comedy,Musical,Romance",91015000,9,Best Cinematography,false
+1962,West Side Story,"Crime,Drama,Musical",364534463,2,Best Directing,true
+1962,La dolce vita,"Comedy,Drama",162958600,4,Best Directing,false
+1962,Les canons de Navarone,"Action,Adventure,Drama",241315000,3,Best Directing,false
+1962,Jugement à Nuremberg,"Drama,War",50100000,13,Best Directing,false
+1962,The Guns of Navarone,"Action,Adventure,Drama",241315000,3,Best Visual Effects,true
+1962,The Absent Minded Professor,"Comedy,Family,Sci-Fi",211934748,5,Best Visual Effects,false
+1962,West Side Story,"Crime,Drama,Musical",364534463,2,Best Picture,true
+1962,Judgment at Nuremberg,"Drama,War",50100000,13,Best Picture,false
+1962,The Guns of Navarone,"Action,Adventure,Drama",241315000,3,Best Picture,false
+1962,Judgment at Nuremberg,"Drama,War",50100000,13,Best Adapted Screenplay,true
+1962,Breakfast at Tiffany's,"Comedy,Drama,Romance",66800000,12,Best Adapted Screenplay,false
+1962,The Guns of Navarone,"Action,Adventure,Drama",241315000,3,Best Adapted Screenplay,false
+1962,West Side Story,"Crime,Drama,Musical",364534463,2,Best Adapted Screenplay,false
+1962,Splendor in the Grass,"Drama,Romance",72812000,12,Best Original Screenplay,true
+1962,La dolce vita,"Comedy,Drama",162958600,4,Best Original Screenplay,false
+1962,Lover Come Back,"Comedy,Drama,Romance",141432041,6,Best Original Screenplay,false
+1961,The Apartment,"Comedy,Drama,Romance",156798000,6,Best Cinematography,false
+1961,Psycho,"Horror,Mystery,Thriller",269760000,2,Best Cinematography,false
+1961,Spartacus,"Adventure,Biography,Drama",252900000,3,Best Cinematography,true
+1961,The Alamo,"Adventure,Drama,History",145526516,7,Best Cinematography,false
+1961,Exodus,"Action,Drama,History",159883380,5,Best Cinematography,false
+1961,BUtterfield 8,"Drama",138779709,8,Best Cinematography,false
+1961,Pepe,"Comedy,Musical",80928000,14,Best Cinematography,false
+1961,La garçonnière,"Comedy,Drama,Romance",156798000,6,Best Directing,true
+1961,Psychose,"Horror,Mystery,Thriller",269760000,2,Best Directing,false
+1961,Jamais le dimanche,"Comedy,Drama,Romance",67440000,14,Best Directing,false
+1961,The Time Machine,"Adventure,Romance,Sci-Fi",29587614,21,Best Visual Effects,true
+1961,The Apartment,"Comedy,Drama,Romance",156798000,6,Best Picture,true
+1961,The Alamo,"Adventure,Drama,History",145526516,7,Best Picture,false
+1961,Elmer Gantry,"Drama",95562480,12,Best Picture,false
+1961,Elmer Gantry,"Drama",95562480,12,Best Adapted Screenplay,true
+1961,The Apartment,"Comedy,Drama,Romance",156798000,6,Best Original Screenplay,true
+1961,Hiroshima mon amour,"Drama,Romance",744369,22,Best Original Screenplay,false
+1961,Pote tin Kyriaki,"Comedy,Drama,Romance",67440000,14,Best Original Screenplay,false
+1960,The Diary of Anne Frank,"Biography,Drama,Family",42669140,16,Best Cinematography,true
+1960,Anatomy of a Murder,"Crime,Drama,Mystery",101269000,12,Best Cinematography,false
+1960,Some Like It Hot,"Comedy,Romance",212750000,3,Best Cinematography,false
+1960,Ben-Hur,"Adventure,Drama,History",635697000,1,Best Cinematography,true
+1960,The Nun's Story,"Drama",108928000,9,Best Cinematography,false
+1960,Porgy and Bess,"Drama,Musical,Romance",29785000,18,Best Cinematography,false
+1960,Ben-Hur,"Adventure,Drama,History",635697000,1,Best Directing,true
+1960,Certains l'aiment chaud,"Comedy,Romance",212750000,3,Best Directing,false
+1960,Au risque de se perdre,"Drama",108928000,9,Best Directing,false
+1960,Le journal d'Anne Frank,"Biography,Drama,Family",42669140,16,Best Directing,false
+1960,Les chemins de la haute ville,"Drama,Romance",20424000,18,Best Directing,false
+1960,Ben-Hur,"Adventure,Drama,History",635697000,1,Best Visual Effects,true
+1960,Journey to the Center of the Earth,"Adventure,Family,Fantasy",85100000,15,Best Visual Effects,false
+1960,Ben-Hur,"Adventure,Drama,History",635697000,1,Best Picture,true
+1960,The Nun's Story,"Drama",108928000,9,Best Picture,false
+1960,Anatomy of a Murder,"Crime,Drama,Mystery",101269000,12,Best Picture,false
+1960,The Diary of Anne Frank,"Biography,Drama,Family",42669140,16,Best Picture,false
+1960,Room at the Top,"Drama,Romance",20424000,18,Best Picture,false
+1960,Room at the Top,"Drama,Romance",20424000,18,Best Adapted Screenplay,true
+1960,The Nun's Story,"Drama",108928000,9,Best Adapted Screenplay,false
+1960,Anatomy of a Murder,"Crime,Drama,Mystery",101269000,12,Best Adapted Screenplay,false
+1960,Ben-Hur,"Adventure,Drama,History",635697000,1,Best Adapted Screenplay,false
+1960,Some Like It Hot,"Comedy,Romance",212750000,3,Best Adapted Screenplay,false
+1960,Pillow Talk,"Comedy,Romance",159562500,5,Best Original Screenplay,true
+1960,North by Northwest,"Adventure,Mystery,Thriller",112970250,8,Best Original Screenplay,false
+1960,Operation Petticoat,"Comedy,Romance,War",198283000,4,Best Original Screenplay,false
+1959,The Young Lions,"Action,Drama,War",86253600,3,Best Cinematography,false
+1959,Separate Tables,"Drama,Romance",64084000,4,Best Cinematography,false
+1959,Cat on a Hot Tin Roof,"Drama",152159005,2,Best Cinematography,false
+1959,Auntie Mame,"Comedy,Drama,Romance",201778000,1,Best Cinematography,false
+1959,South Pacific,"Musical,Romance,War",318688000,1,Best Cinematography,false
+1959,La chatte sur un toit brûlant,"Drama",152159005,2,Best Directing,false
+1959,Torpedo Run,"Drama,War",9915700,11,Best Visual Effects,false
+1959,Cat on a Hot Tin Roof,"Drama",152159005,2,Best Picture,false
+1959,Auntie Mame,"Comedy,Drama,Romance",201778000,1,Best Picture,false
+1959,Separate Tables,"Drama,Romance",64084000,4,Best Picture,false
+1959,Cat on a Hot Tin Roof,"Drama",152159005,2,Best Adapted Screenplay,false
+1959,Separate Tables,"Drama,Romance",64084000,4,Best Adapted Screenplay,false
+1959,The Sheepman,"Western",13293100,11,Best Original Screenplay,false
+1958,The Bridge on the River Kwai,"Adventure,Drama,War",391597760,1,Best Cinematography,true
+1958,Peyton Place,"Drama,Romance",223232000,3,Best Cinematography,false
+1958,Sayonara,"Drama,Romance",229336000,2,Best Cinematography,false
+1958,Le pont de la rivière Kwaï,"Adventure,Drama,War",391597760,1,Best Directing,true
+1958,Témoin à charge,"Crime,Drama,Mystery",71286000,8,Best Directing,false
+1958,Sayonara,"Drama,Romance",229336000,2,Best Directing,false
+1958,Les plaisirs de l'enfer,"Drama,Romance",223232000,3,Best Directing,false
+1958,Douze hommes en colère,"Drama",38019200,11,Best Directing,false
+1958,The Bridge on the River Kwai,"Adventure,Drama,War",391597760,1,Best Picture,true
+1958,12 Angry Men,"Drama",38019200,11,Best Picture,false
+1958,Peyton Place,"Drama,Romance",223232000,3,Best Picture,false
+1958,Sayonara,"Drama,Romance",229336000,2,Best Picture,false
+1958,Witness for the Prosecution,"Crime,Drama,Mystery",71286000,8,Best Picture,false
+1958,The Bridge on the River Kwai,"Adventure,Drama,War",391597760,1,Best Adapted Screenplay,true
+1958,12 Angry Men,"Drama",38019200,11,Best Adapted Screenplay,false
+1958,Peyton Place,"Drama,Romance",223232000,3,Best Adapted Screenplay,false
+1958,Sayonara,"Drama,Romance",229336000,2,Best Adapted Screenplay,false
+1958,I vitelloni,"Comedy,Drama",854071,15,Best Original Screenplay,false
+1957,Somebody Up There Likes Me,"Biography,Drama,Sport",17177550,17,Best Cinematography,true
+1957,Baby Doll,"Drama",20631000,16,Best Cinematography,false
+1957,The Harder They Fall,"Drama,Film-Noir,Sport",12109500,17,Best Cinematography,false
+1957,Around the World in 80 Days,"Adventure,Comedy,Family",376740000,2,Best Cinematography,true
+1957,War and Peace,"Drama,Romance,War",112125000,6,Best Cinematography,false
+1957,The King and I,"Biography,Drama,Musical",191061000,4,Best Cinematography,false
+1957,The Ten Commandments,"Adventure,Drama",840847800,1,Best Cinematography,false
+1957,Géant,"Drama,Western",313950000,3,Best Directing,true
+1957,Guerre et paix,"Drama,Romance,War",112125000,6,Best Directing,false
+1957,Le tour du monde en 80 jours,"Adventure,Comedy,Family",376740000,2,Best Directing,false
+1957,Le roi et moi,"Biography,Drama,Musical",191061000,4,Best Directing,false
+1957,La loi du Seigneur,"Drama,Romance,War",71760000,9,Best Directing,false
+1957,The Ten Commandments,"Adventure,Drama",840847800,1,Best Visual Effects,true
+1957,Forbidden Planet,"Action,Adventure,Sci-Fi",26910000,16,Best Visual Effects,false
+1957,Around the World in 80 Days,"Adventure,Comedy,Family",376740000,2,Best Picture,true
+1957,Giant,"Drama,Western",313950000,3,Best Picture,false
+1957,Friendly Persuasion,"Drama,Romance,War",71760000,9,Best Picture,false
+1957,The King and I,"Biography,Drama,Musical",191061000,4,Best Picture,false
+1957,The Ten Commandments,"Adventure,Drama",840847800,1,Best Picture,false
+1957,Julie,"Crime,Drama,Film-Noir",12692550,17,Best Original Screenplay,false
+1956,Blackboard Jungle,"Crime,Drama",49056840,8,Best Cinematography,false
+1956,To Catch a Thief,"Mystery,Romance,Thriller",81112500,8,Best Cinematography,true
+1956,Guys and Dolls,"Comedy,Crime,Musical",120510000,4,Best Cinematography,false
+1956,Love Is a Many-Splendored Thing,"Biography,Drama,Romance",37080000,8,Best Cinematography,false
+1956,Un homme est passé,"Crime,Drama,Mystery",18224820,9,Best Directing,false
+1956,The Bridges at Toko-Ri,"Drama,Romance,War",43569000,8,Best Visual Effects,true
+1956,The Rains of Ranchipur,"Adventure,Drama,Romance",24102000,9,Best Visual Effects,false
+1956,Love Is a Many-Splendored Thing,"Biography,Drama,Romance",37080000,8,Best Picture,false
+1956,Mister Roberts,"Comedy,Drama,War",196524000,2,Best Picture,false
+1956,Blackboard Jungle,"Crime,Drama",49056840,8,Best Adapted Screenplay,false
+1956,Bad Day at Black Rock,"Crime,Drama,Mystery",18224820,9,Best Adapted Screenplay,false
+1956,The Court-Martial of Billy Mitchell,"Biography,Drama,War",27810000,8,Best Original Screenplay,false
+1955,On the Waterfront,"Crime,Drama,Thriller",90240000,7,Best Cinematography,true
+1955,Executive Suite,"Drama",25210800,9,Best Cinematography,false
+1955,Sabrina,"Comedy,Drama,Romance",94000000,6,Best Cinematography,false
+1955,Rogue Cop,"Crime,Drama,Film-Noir",13319800,16,Best Cinematography,false
+1955,Rear Window,"Mystery,Thriller",345584542,1,Best Cinematography,false
+1955,Sur les quais,"Crime,Drama,Thriller",90240000,7,Best Directing,true
+1955,Fenêtre sur cour,"Mystery,Thriller",345584542,1,Best Directing,false
+1955,Sabrina,"Comedy,Drama,Romance",94000000,6,Best Directing,false
+1955,"2000 Leagues Under the Sea","Adventure,Drama,Family",265080000,3,Best Visual Effects,true
+1955,Hell and High Water,"Action,Adventure,Drama",25380000,9,Best Visual Effects,false
+1955,On the Waterfront,"Crime,Drama,Thriller",90240000,7,Best Picture,true
+1955,The Caine Mutiny,"Drama,War",204450000,5,Best Picture,false
+1955,Rear Window,"Mystery,Thriller",345584542,1,Best Adapted Screenplay,false
+1955,The Caine Mutiny,"Drama,War",204450000,5,Best Adapted Screenplay,false
+1955,Sabrina,"Comedy,Drama,Romance",94000000,6,Best Adapted Screenplay,false
+1955,On the Waterfront,"Crime,Drama,Thriller",90240000,7,Best Original Screenplay,true
+1954,From Here to Eternity,"Drama,Romance,War",285785000,3,Best Cinematography,true
+1954,Julius Caesar,"Biography,Drama,History",18936770,9,Best Cinematography,false
+1954,Martin Luther,"Biography,Drama,History",28109999,9,Best Cinematography,false
+1954,Roman Holiday,"Comedy,Romance",46849999,6,Best Cinematography,false
+1954,Shane,"Drama,Western",187399999,5,Best Cinematography,true
+1954,All the Brothers Were Valiant,"Adventure,Drama,Romance",18777480,9,Best Cinematography,false
+1954,The Robe,"Drama,History",337320000,2,Best Cinematography,false
+1954,Tant qu'il y aura des hommes,"Drama,Romance,War",285785000,3,Best Directing,true
+1954,Stalag 17,"Comedy,Drama,War",93699999,6,Best Directing,false
+1954,L'homme des vallées perdues,"Drama,Western",187399999,5,Best Directing,false
+1954,Vacances romaines,"Comedy,Romance",46849999,6,Best Directing,false
+1954,The War of the Worlds,"Action,Sci-Fi,Thriller",40853200,9,Best Visual Effects,true
+1954,From Here to Eternity,"Drama,Romance,War",285785000,3,Best Picture,true
+1954,Julius Caesar,"Biography,Drama,History",18936770,9,Best Picture,false
+1954,Shane,"Drama,Western",187399999,5,Best Picture,false
+1954,The Robe,"Drama,History",337320000,2,Best Picture,false
+1954,Roman Holiday,"Comedy,Romance",46849999,6,Best Picture,false
+1954,From Here to Eternity,"Drama,Romance,War",285785000,3,Best Adapted Screenplay,true
+1954,Shane,"Drama,Western",187399999,5,Best Adapted Screenplay,false
+1954,Roman Holiday,"Comedy,Romance",46849999,6,Best Adapted Screenplay,false
+1954,Titanic,"Drama,History,Romance",45959849,8,Best Original Screenplay,true
+1954,The Naked Spur,"Thriller,Western",22703509,9,Best Original Screenplay,false
+1954,Take the High Ground!,"Drama,War",18440160,9,Best Original Screenplay,false
+1953,The Bad and the Beautiful,"Drama,Romance",22344480,9,Best Cinematography,true
+1953,The Quiet Man,"Comedy,Drama,Romance",99592000,4,Best Cinematography,true
+1953,Hans Christian Andersen,"Biography,Family,Musical",123475200,2,Best Cinematography,false
+1953,Ivanhoe,"Adventure,Drama,History",128784633,2,Best Cinematography,false
+1953,The Snows of Kilimanjaro,"Adventure,Drama,Romance",170392000,2,Best Cinematography,false
+1953,L'homme tranquille,"Comedy,Drama,Romance",99592000,4,Best Directing,true
+1953,Sous le plus grand chapiteau du monde,"Drama,Family,Romance",339840000,1,Best Directing,false
+1953,Le train sifflera trois fois,"Action,Drama,Thriller",89208000,5,Best Directing,false
+1953,Moulin Rouge,"Biography,Drama,Music",111486400,3,Best Directing,false
+1953,Plymouth Adventure,"Adventure,Drama,History",18020960,9,Best Visual Effects,true
+1953,The Greatest Show on Earth,"Drama,Family,Romance",339840000,1,Best Picture,true
+1953,Ivanhoe,"Adventure,Drama,History",128784633,2,Best Picture,false
+1953,The Quiet Man,"Comedy,Drama,Romance",99592000,4,Best Picture,false
+1953,High Noon,"Action,Drama,Thriller",89208000,5,Best Picture,false
+1953,Moulin Rouge,"Biography,Drama,Music",111486400,3,Best Picture,false
+1953,The Bad and the Beautiful,"Drama,Romance",22344480,9,Best Adapted Screenplay,true
+1953,The Man in the White Suit,"Comedy,Drama,Sci-Fi",78021,14,Best Adapted Screenplay,false
+1953,The Quiet Man,"Comedy,Drama,Romance",99592000,4,Best Adapted Screenplay,false
+1953,High Noon,"Action,Drama,Thriller",89208000,5,Best Adapted Screenplay,false
+1952,Strangers on a Train,"Crime,Film-Noir,Thriller",72561300,3,Best Cinematography,false
+1952,A Streetcar Named Desire,"Drama",76080000,2,Best Cinematography,false
+1952,An American in Paris,"Drama,Musical,Romance",42795000,4,Best Cinematography,true
+1952,Quo Vadis,"Biography,Drama,History",231014447,1,Best Cinematography,false
+1952,Show Boat,"Drama,Family,Musical",50336430,3,Best Cinematography,false
+1952,Un tramway nommé désir,"Drama",76080000,2,Best Directing,false
+1952,La reine africaine,"Adventure,Drama,Romance",5098482,11,Best Directing,false
+1952,Un Américain à Paris,"Drama,Musical,Romance",42795000,4,Best Directing,false
+1952,An American in Paris,"Drama,Musical,Romance",42795000,4,Best Picture,true
+1952,Quo Vadis,"Biography,Drama,History",231014447,1,Best Picture,false
+1952,A Streetcar Named Desire,"Drama",76080000,2,Best Picture,false
+1952,The African Queen,"Adventure,Drama,Romance",5098482,11,Best Adapted Screenplay,false
+1952,A Streetcar Named Desire,"Drama",76080000,2,Best Adapted Screenplay,false
+1952,An American in Paris,"Drama,Musical,Romance",42795000,4,Best Original Screenplay,true
+1952,Ace in the Hole,"Drama,Film-Noir",37753682,5,Best Original Screenplay,false
+1952,Go for Broke!,"Drama,History,War",24069810,7,Best Original Screenplay,false
+1951,The Third Man,"Film-Noir,Mystery,Thriller",4352660,9,Best Cinematography,true
+1951,Sunset Blvd.,"Drama,Film-Noir",49641870,3,Best Cinematography,false
+1951,The Asphalt Jungle,"Crime,Drama,Film-Noir",10436130,11,Best Cinematography,false
+1951,All About Eve,"Drama",98615,13,Best Cinematography,false
+1951,King Solomon's Mines,"Action,Adventure,Romance",48905430,3,Best Cinematography,true
+1951,Annie Get Your Gun,"Biography,Comedy,Musical",77520000,2,Best Cinematography,false
+1951,Samson and Delilah,"Adventure,Drama,History",279072000,1,Best Cinematography,false
+1951,Ève,"Drama",98615,13,Best Directing,true
+1951,Boulevard du Crépuscule,"Drama,Film-Noir",49641870,3,Best Directing,false
+1951,Le troisième homme,"Film-Noir,Mystery,Thriller",4352660,9,Best Directing,false
+1951,Comment l'esprit vient aux femmes,"Comedy,Drama,Romance",116280000,1,Best Directing,false
+1951,Quand la ville dort,"Crime,Drama,Film-Noir",10436130,11,Best Directing,false
+1951,Destination Moon,"Adventure,Drama,Sci-Fi",48450000,4,Best Visual Effects,true
+1951,Samson and Delilah,"Adventure,Drama,History",279072000,1,Best Visual Effects,false
+1951,All About Eve,"Drama",98615,13,Best Picture,true
+1951,Sunset Blvd.,"Drama,Film-Noir",49641870,3,Best Picture,false
+1951,Born Yesterday,"Comedy,Drama,Romance",116280000,1,Best Picture,false
+1951,King Solomon's Mines,"Action,Adventure,Romance",48905430,3,Best Picture,false
+1951,All About Eve,"Drama",98615,13,Best Adapted Screenplay,true
+1951,Born Yesterday,"Comedy,Drama,Romance",116280000,1,Best Adapted Screenplay,false
+1951,The Asphalt Jungle,"Crime,Drama,Film-Noir",10436130,11,Best Adapted Screenplay,false
+1951,Sunset Blvd.,"Drama,Film-Noir",49641870,3,Best Original Screenplay,true
+1951,The Men,"Drama",68799000,3,Best Original Screenplay,false
+1950,Battleground,"Action,Drama,History",107674821,2,Best Cinematography,true
+1950,Champion,"Drama,Film-Noir,Sport",26150000,6,Best Cinematography,false
+1950,Prince of Foxes,"Adventure,Drama,History",26673000,6,Best Cinematography,false
+1950,Première désillusion,"Drama,Film-Noir,Mystery",604012,12,Best Directing,false
+1950,Bastogne,"Action,Drama,History",107674821,2,Best Directing,false
+1950,Mighty Joe Young,"Adventure,Drama,Fantasy",20397000,7,Best Visual Effects,true
+1950,Tulsa,"Action,Drama,Romance",16736000,7,Best Visual Effects,false
+1950,Battleground,"Action,Drama,History",107674821,2,Best Picture,false
+1950,Champion,"Drama,Film-Noir,Sport",26150000,6,Best Adapted Screenplay,false
+1950,Ladri di biciclette,"Drama",3482447,10,Best Adapted Screenplay,false
+1950,The Fallen Idol,"Drama,Film-Noir,Mystery",604012,12,Best Adapted Screenplay,false
+1950,Battleground,"Action,Drama,History",107674821,2,Best Original Screenplay,true
+1949,The Naked City,"Crime,Drama,Film-Noir",25416000,6,Best Cinematography,true
+1949,Joan of Arc,"Biography,Drama,History",61084623,3,Best Cinematography,true
+1949,The Three Musketeers,"Action,Adventure,Drama",95207488,3,Best Cinematography,false
+1949,Le trésor de la Sierra Madre,"Adventure,Drama,Western",53098260,4,Best Directing,true
+1949,La fosse aux serpents,"Drama,Mystery",105900000,2,Best Directing,false
+1949,The Snake Pit,"Drama,Mystery",105900000,2,Best Picture,false
+1949,The Treasure of the Sierra Madre,"Adventure,Drama,Western",53098260,4,Best Picture,false
+1949,The Red Shoes,"Drama,Music,Romance",115431000,1,Best Picture,false
+1949,The Treasure of the Sierra Madre,"Adventure,Drama,Western",53098260,4,Best Adapted Screenplay,true
+1949,The Snake Pit,"Drama,Mystery",105900000,2,Best Adapted Screenplay,false
+1948,Feux croisés,"Crime,Drama,Film-Noir",13598000,10,Best Directing,false
+1948,Crossfire,"Crime,Drama,Film-Noir",13598000,10,Best Picture,false
+1948,Miracle on 34th Street,"Comedy,Drama,Family",27719000,6,Best Picture,false
+1948,Monsieur Verdoux,"Comedy,Crime,Drama",3399500,12,Best Original Screenplay,false
+1948,Miracle on 34th Street,"Comedy,Drama,Family",27719000,6,Best Adapted Screenplay,true
+1948,Crossfire,"Crime,Drama,Film-Noir",13598000,10,Best Adapted Screenplay,false
+1947,The Yearling,"Drama,Family,Western",58760000,7,Best Cinematography,true
+1947,Les plus belles années de notre vie,"Drama,Romance,War",267245000,2,Best Directing,true
+1947,Jody et le faon,"Drama,Family,Western",58760000,7,Best Directing,false
+1947,The Best Years of Our Lives,"Drama,Romance,War",267245000,2,Best Picture,true
+1947,The Yearling,"Drama,Family,Western",58760000,7,Best Picture,false
+1947,The Blue Dahlia,"Crime,Film-Noir,Mystery",30510000,12,Best Original Screenplay,false
+1947,Notorious,"Drama,Film-Noir,Romance",118243200,4,Best Original Screenplay,false
+1947,The Best Years of Our Lives,"Drama,Romance,War",267245000,2,Best Adapted Screenplay,true
+1946,Spellbound,"Film-Noir,Mystery,Romance",90510000,6,Best Cinematography,false
+1946,The Lost Weekend,"Drama,Film-Noir",122317800,4,Best Cinematography,false
+1946,Le poison,"Drama,Film-Noir",122317800,4,Best Directing,true
+1946,La maison du docteur Edwardes,"Film-Noir,Mystery,Romance",90510000,6,Best Directing,false
+1946,Les cloches de Sainte-Marie,"Drama",275409000,2,Best Directing,false
+1946,Spellbound,"Film-Noir,Mystery,Romance",90510000,6,Best Visual Effects,false
+1946,The Lost Weekend,"Drama,Film-Noir",122317800,4,Best Picture,true
+1946,Spellbound,"Film-Noir,Mystery,Romance",90510000,6,Best Picture,false
+1946,The Bells of St. Mary's,"Drama",275409000,2,Best Picture,false
+1946,Dillinger,"Biography,Crime,Drama",51720000,7,Best Original Screenplay,false
+1946,The Lost Weekend,"Drama,Film-Noir",122317800,4,Best Adapted Screenplay,true
+1945,Double Indemnity,"Crime,Drama,Film-Noir",80080000,3,Best Cinematography,false
+1945,Going My Way,"Comedy,Drama,Music",228200000,1,Best Cinematography,false
+1945,Thirty Seconds Over Tokyo,"Drama,History,War",60158000,3,Best Cinematography,false
+1945,Wilson,"Biography,Drama,History",28000000,4,Best Cinematography,true
+1945,Meet Me in St. Louis,"Comedy,Drama,Family",105924000,2,Best Cinematography,false
+1945,La route semée d'étoiles,"Comedy,Drama,Music",228200000,1,Best Directing,true
+1945,Assurance sur la mort,"Crime,Drama,Film-Noir",80080000,3,Best Directing,false
+1945,Wilson,"Biography,Drama,History",28000000,4,Best Directing,false
+1945,Thirty Seconds Over Tokyo,"Drama,History,War",60158000,3,Best Visual Effects,true
+1945,Wilson,"Biography,Drama,History",28000000,4,Best Visual Effects,false
+1945,Going My Way,"Comedy,Drama,Music",228200000,1,Best Picture,true
+1945,Double Indemnity,"Crime,Drama,Film-Noir",80080000,3,Best Picture,false
+1945,Wilson,"Biography,Drama,History",28000000,4,Best Picture,false
+1945,Wilson,"Biography,Drama,History",28000000,4,Best Original Screenplay,true
+1945,Wing and a Prayer,"Action,Drama,War",31500000,3,Best Original Screenplay,false
+1945,Going My Way,"Comedy,Drama,Music",228200000,1,Best Adapted Screenplay,true
+1945,Double Indemnity,"Crime,Drama,Film-Noir",80080000,3,Best Adapted Screenplay,false
+1945,Meet Me in St. Louis,"Comedy,Drama,Family",105924000,2,Best Adapted Screenplay,false
+1944,Casablanca,"Drama,Romance,War",14671699,15,Best Cinematography,false
+1944,Sahara,"Action,Drama,War",32936000,10,Best Cinematography,false
+1944,Phantom of the Opera,"Drama,Horror,Music",49948160,6,Best Cinematography,true
+1944,"Hello, Frisco, Hello","Comedy,Musical,Romance",48688000,8,Best Cinematography,false
+1944,For Whom the Bell Tolls,"Adventure,Drama,History",254896000,2,Best Cinematography,false
+1944,Casablanca,"Drama,Romance,War",14671699,15,Best Directing,true
+1944,Stand by for Action,"Action,Drama,War",7930416,22,Best Visual Effects,false
+1944,Casablanca,"Drama,Romance,War",14671699,15,Best Picture,true
+1944,In Which We Serve,"Drama,War",6444000,23,Best Picture,false
+1944,The Ox-Bow Incident,"Drama,Western",23413200,11,Best Picture,false
+1944,For Whom the Bell Tolls,"Adventure,Drama,History",254896000,2,Best Picture,false
+1944,In Which We Serve,"Drama,War",6444000,23,Best Original Screenplay,false
+1944,Casablanca,"Drama,Romance,War",14671699,15,Best Adapted Screenplay,true
+1943,Mrs. Miniver,"Drama,Romance,War",196695000,2,Best Cinematography,true
+1943,Kings Row,"Drama,Mystery,Romance",74205010,5,Best Cinematography,false
+1943,The Black Swan,"Action,Adventure,Drama",14753582,16,Best Cinematography,true
+1943,Jungle Book,"Action,Adventure,Family",41291380,8,Best Cinematography,false
+1943,Arabian Nights,"Action,Adventure,Comedy",29140000,11,Best Cinematography,false
+1943,To the Shores of Tripoli,"Drama,Romance,War",33511000,10,Best Cinematography,false
+1943,Madame Miniver,"Drama,Romance,War",196695000,2,Best Directing,true
+1943,Prisonniers du passé,"Drama,Romance",147696090,4,Best Directing,false
+1943,La glorieuse parade,"Biography,Drama,Musical",171926000,3,Best Directing,false
+1943,Crimes sans châtiment,"Drama,Mystery,Romance",74205010,5,Best Directing,false
+1943,Invisible Agent,"Adventure,Comedy,Romance",15152800,14,Best Visual Effects,false
+1943,The Black Swan,"Action,Adventure,Drama",14753582,16,Best Visual Effects,false
+1943,Jungle Book,"Action,Adventure,Family",41291380,8,Best Visual Effects,false
+1943,Mrs. Miniver,"Drama,Romance,War",196695000,2,Best Visual Effects,false
+1943,Desperate Journey,"Action,Adventure,Drama",29562530,10,Best Visual Effects,false
+1943,Mrs. Miniver,"Drama,Romance,War",196695000,2,Best Picture,true
+1943,Kings Row,"Drama,Mystery,Romance",74205010,5,Best Picture,false
+1943,Yankee Doodle Dandy,"Biography,Drama,Musical",171926000,3,Best Picture,false
+1943,Random Harvest,"Drama,Romance",147696090,4,Best Picture,false
+1943,Road to Morocco,"Adventure,Comedy,Family",23696648,12,Best Original Screenplay,false
+1943,Mrs. Miniver,"Drama,Romance,War",196695000,2,Best Adapted Screenplay,true
+1943,Random Harvest,"Drama,Romance",147696090,4,Best Adapted Screenplay,false
+1942,How Green Was My Valley,"Drama,Family",92760000,2,Best Cinematography,true
+1942,Citizen Kane,"Drama,Mystery",24513901,7,Best Cinematography,false
+1942,Sundown,"Drama,War",13509071,8,Best Cinematography,false
+1942,Sergeant York,"Biography,Drama,History",253544000,1,Best Cinematography,false
+1942,Dive Bomber,"Drama,War",46380000,5,Best Cinematography,false
+1942,Billy the Kid,"Biography,Drama,Western",23468280,7,Best Cinematography,false
+1942,Qu'elle était verte ma vallée,"Drama,Family",92760000,2,Best Directing,true
+1942,Sergent York,"Biography,Drama,History",253544000,1,Best Directing,false
+1942,Citizen Kane,"Drama,Mystery",24513901,7,Best Directing,false
+1942,How Green Was My Valley,"Drama,Family",92760000,2,Best Picture,true
+1942,Citizen Kane,"Drama,Mystery",24513901,7,Best Picture,false
+1942,The Maltese Falcon,"Film-Noir,Mystery",27395120,5,Best Picture,false
+1942,Sergeant York,"Biography,Drama,History",253544000,1,Best Picture,false
+1942,Suspicion,"Mystery,Thriller",69570000,3,Best Picture,false
+1942,Citizen Kane,"Drama,Mystery",24513901,7,Best Original Screenplay,true
+1942,Sergeant York,"Biography,Drama,History",253544000,1,Best Original Screenplay,false
+1942,The Maltese Falcon,"Film-Noir,Mystery",27395120,5,Best Adapted Screenplay,false
+1942,How Green Was My Valley,"Drama,Family",92760000,2,Best Adapted Screenplay,false
+1941,Rebecca,"Drama,Mystery,Romance",74774000,4,Best Cinematography,true
+1941,Foreign Correspondent,"Action,Romance,Thriller",59760684,6,Best Cinematography,false
+1941,Boom Town,"Adventure,Drama,Romance",157299800,3,Best Cinematography,false
+1941,The Long Voyage Home,"Drama,War",9949212,8,Best Cinematography,false
+1941,The Thief of Bagdad,"Adventure,Family,Fantasy",4612458,10,Best Cinematography,true
+1941,'Northwest Passage' (Book I -- Rogers' Rangers),"Adventure,Drama,History",37198350,6,Best Cinematography,false
+1941,Les raisins de la colère,"Drama,History",943249,14,Best Directing,true
+1941,Rebecca,"Drama,Mystery,Romance",74774000,4,Best Directing,false
+1941,The Thief of Bagdad,"Adventure,Family,Fantasy",4612458,10,Best Visual Effects,true
+1941,Foreign Correspondent,"Action,Romance,Thriller",59760684,6,Best Visual Effects,false
+1941,The Sea Hawk,"Action,Adventure,History",34300000,6,Best Visual Effects,false
+1941,Boom Town,"Adventure,Drama,Romance",157299800,3,Best Visual Effects,false
+1941,The Long Voyage Home,"Drama,War",9949212,8,Best Visual Effects,false
+1941,Rebecca,"Drama,Mystery,Romance",74774000,4,Best Visual Effects,false
+1941,Swiss Family Robinson,"Adventure",33274429,7,Best Visual Effects,false
+1941,Rebecca,"Drama,Mystery,Romance",74774000,4,Best Picture,true
+1941,Foreign Correspondent,"Action,Romance,Thriller",59760684,6,Best Picture,false
+1941,The Great Dictator,"Comedy,Drama,War",85750000,3,Best Picture,false
+1941,The Long Voyage Home,"Drama,War",9949212,8,Best Picture,false
+1941,The Grapes of Wrath,"Drama,History",943249,14,Best Picture,false
+1941,Foreign Correspondent,"Action,Romance,Thriller",59760684,6,Best Original Screenplay,false
+1941,The Great Dictator,"Comedy,Drama,War",85750000,3,Best Original Screenplay,false
+1941,The Long Voyage Home,"Drama,War",9949212,8,Best Adapted Screenplay,false
+1941,The Grapes of Wrath,"Drama,History",943249,14,Best Adapted Screenplay,false
+1941,Rebecca,"Drama,Mystery,Romance",74774000,4,Best Adapted Screenplay,false
+1940,Wuthering Heights,"Drama,Romance",10690452,9,Best Cinematography,true
+1940,Gunga Din,"Adventure,Comedy,War",50526000,4,Best Cinematography,false
+1940,Only Angels Have Wings,"Adventure,Drama,Romance",39240000,6,Best Cinematography,false
+1940,The Great Victor Herbert,"Biography,Music,Musical",5430600,13,Best Cinematography,false
+1940,Gone with the Wind,"Drama,History,Romance",1766000000,1,Best Cinematography,true
+1940,The Wizard of Oz,"Adventure,Family,Fantasy",399647016,2,Best Cinematography,false
+1940,Drums Along the Mohawk,"Drama,History,Romance",18000000,9,Best Cinematography,false
+1940,Autant en emporte le vent,"Drama,History,Romance",1766000000,1,Best Directing,true
+1940,Mr. Smith au sénat,"Comedy,Drama",172800000,3,Best Directing,false
+1940,Les hauts de Hurlevent,"Drama,Romance",10690452,9,Best Directing,false
+1940,Gone with the Wind,"Drama,History,Romance",1766000000,1,Best Visual Effects,false
+1940,The Wizard of Oz,"Adventure,Family,Fantasy",399647016,2,Best Visual Effects,false
+1940,Only Angels Have Wings,"Adventure,Drama,Romance",39240000,6,Best Visual Effects,false
+1940,Gone with the Wind,"Drama,History,Romance",1766000000,1,Best Picture,true
+1940,The Wizard of Oz,"Adventure,Family,Fantasy",399647016,2,Best Picture,false
+1940,Wuthering Heights,"Drama,Romance",10690452,9,Best Picture,false
+1940,Mr. Smith Goes to Washington,"Comedy,Drama",172800000,3,Best Picture,false
+1940,Ninotchka,"Comedy,Romance",21366000,7,Best Picture,false
+1940,Gone with the Wind,"Drama,History,Romance",1766000000,1,Best Adapted Screenplay,true
+1940,Wuthering Heights,"Drama,Romance",10690452,9,Best Adapted Screenplay,false
+1940,Mr. Smith Goes to Washington,"Comedy,Drama",172800000,3,Best Adapted Screenplay,false
+1940,Ninotchka,"Comedy,Romance",21366000,7,Best Adapted Screenplay,false
+1939,You Can't Take It with You,"Comedy,Drama,Romance",84484222,1,Best Cinematography,false
+1939,Vous ne l'emporterez pas avec vous,"Comedy,Drama,Romance",84484222,1,Best Directing,true
+1939,You Can't Take It with You,"Comedy,Drama,Romance",84484222,1,Best Picture,true
+1939,La grande illusion,"Drama,War",3134405,9,Best Picture,false
+1939,The Adventures of Robin Hood,"Action,Adventure,Romance",72175530,2,Best Picture,false
+1939,Pygmalion,"Comedy,Drama,Romance",55332760,3,Best Picture,false
+1939,Pygmalion,"Comedy,Drama,Romance",55332760,3,Best Adapted Screenplay,true
+1939,You Can't Take It with You,"Comedy,Drama,Romance",84484222,1,Best Adapted Screenplay,false
+1938,Une étoile est née,"Drama",77956800,3,Best Directing,false
+1938,One Hundred Men and a Girl,"Comedy,Drama,Music",40591176,4,Best Picture,false
+1938,A Star Is Born,"Drama",77956800,3,Best Picture,false
+1938,A Star Is Born,"Drama",77956800,3,Best Adapted Screenplay,false
+1937,The Gorgeous Hussy,"Drama,History",25515000,3,Best Cinematography,false
+1937,San Francisco,"Drama,Musical,Romance",56845092,1,Best Directing,false
+1937,San Francisco,"Drama,Musical,Romance",56845092,1,Best Picture,false
+1937,Three Smart Girls,"Comedy,Musical,Romance",52500000,1,Best Picture,false
+1936,Les révoltés du Bounty,"Adventure,Biography,Drama",99252159,1,Best Directing,false
+1936,Mutiny on the Bounty,"Adventure,Biography,Drama",99252159,1,Best Picture,true
+1936,Top Hat,"Comedy,Musical,Romance",70430698,1,Best Picture,false
+1936,Mutiny on the Bounty,"Adventure,Biography,Drama",99252159,1,Best Adapted Screenplay,false
+1935,The Affairs of Cellini,"Comedy,Drama,History",1635575,6,Best Cinematography,false
+1935,New York - Miami,"Comedy,Romance",80224000,1,Best Directing,true
+1935,It Happened One Night,"Comedy,Romance",80224000,1,Best Picture,true
+1935,Viva Villa!,"Biography,Western",20405600,4,Best Picture,false
+1934,Cavalcade,"Drama,Romance,War",143520300,2,Best Directing,true
+1934,Cavalcade,"Drama,Romance,War",143520300,2,Best Picture,true
+1934,42nd Street,"Comedy,Musical,Romance",43263000,4,Best Picture,false
+1934,She Done Him Wrong,"Comedy,Drama,History",37620000,5,Best Picture,false
+1932,Shanghai Express,"Adventure,Drama,Romance",68080000,1,Best Cinematography,true
+1932,Shanghaï Express,"Adventure,Drama,Romance",68080000,1,Best Directing,false
+1932,Grand Hotel,"Drama,Romance",22724000,3,Best Picture,true
+1932,Shanghai Express,"Adventure,Drama,Romance",68080000,1,Best Picture,false
+1931,Tabu: A Story of the South Seas,"Drama,Romance,Adventure",17060156,1,Best Cinematography,true
+1931,Spéciale première,"Comedy",25301079,1,Best Directing,false
+1931,The Front Page,"Comedy",25301079,1,Best Picture,false
+1930,Our Dancing Daughters,"Drama",11423130,8,Best Cinematography,false
+1930,The Broadway Melody,"Drama,Musical,Romance",42372720,3,Best Directing,false
+1930,The Broadway Melody,"Drama,Musical,Romance",42372720,3,Best Picture,true
+1929,Sadie Thompson,"Drama",14740000,5,Best Cinematography,false
+1929,The Magic Flame,"Drama",9065100,14,Best Cinematography,false
